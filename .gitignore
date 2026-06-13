@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Models & large files
+models/
+*.bin
+*.pt
+*.safetensors
+
+# Data (optional - remove if you want to push PDFs)
+data/
+
+# FAISS index
+*.faiss
+*.pkl
