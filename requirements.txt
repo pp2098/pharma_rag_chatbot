@@ -1,0 +1,13 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+pymupdf
+pytesseract
+Pillow
+torch
+accelerate
+langchain
+langchain-community
+huggingface-hub
+python-dotenv
