@@ -128,9 +128,19 @@ from huggingface_hub import InferenceClient
 def generate_answer(query, context_chunks):
     try:
         import streamlit as st
-        HF_TOKEN = st.secrets["HF_TOKEN"]
-    except:
+        HF_TOKEN = st.secrets["HF_TOKEN"].strip()
+
+        print("HF_TOKEN loaded from Streamlit")
+        print("Length:", len(HF_TOKEN))
+        print("Prefix:", HF_TOKEN[:10])
+
+    except Exception as e:
+        print("Streamlit secret error:", e)
+
         HF_TOKEN = os.getenv("HF_TOKEN")
+
+        print("HF_TOKEN loaded from env")
+        print("Length:", len(HF_TOKEN) if HF_TOKEN else 0)
 
     context = "\n\n".join(
         f"[Chunk {c['chunk_id']}]: {c['text']}"
