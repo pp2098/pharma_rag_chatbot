@@ -1,0 +1,2572 @@
+[
+  {
+    "chunk_id": 1,
+    "text": "Operating at the crossroads between biochemistry, organic chemistry, microbiology and molecular biology, biocatalysis is an example of a viable and sustainable interdisciplinary technology. The first wave of biocatalysis started over a century ago, when scientists discovered that whole living cells could perform valuable chemical transformations such as production of a precursor of L-ephedrine.",
+    "keywords": [
+      "biology biocatalysis",
+      "biocatalysis started",
+      "biocatalysis",
+      "biocatalysis example",
+      "wave biocatalysis"
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "text": "During the second wave of biocatalysis, in the last quarter of the 20th century, enzymes, substrate, and media screening and initial protein engineering technologies allowed the substrate range of enzymes to be extended to unnatural compounds.",
+    "keywords": [
+      "biocatalysis quarter",
+      "wave biocatalysis",
+      "biocatalysis",
+      "enzymes",
+      "enzyme",
+      "enzymes substrate"
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "text": "The third wave of biocatalysis started in the late 1990’s with the socalled “direct evolution”, when advanced molecular biology and high-throughput screening were introduced to achieve rapid and extensive modification of biocatalysts. We are now rapidly approaching the fourth wave, where protein engineering efforts are enabling biocatalytic access to novel and often non-natural reactions.",
+    "keywords": [
+      "enabling biocatalytic",
+      "biocatalysis started",
+      "biocatalysis",
+      "biocatalysts rapidly",
+      "wave biocatalysis"
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "text": "Thanks to major achievements made during the years in enzyme development and protein engineering, and to the green chemistry advantages characterizing biocatalytic processes, more and more molecules have been and are being synthesized using enzymes. E-mail addresses: (A. Basso), (S. Serban).",
+    "keywords": [
+      "biocatalytic processes",
+      "characterizing biocatalytic",
+      "biocatalytic",
+      "enzymes",
+      "enzyme",
+      "using enzymes"
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "text": "Received 18 March 2019; Received in revised form 26 August 2019; Accepted 30 August 2019 Available online 18 September 2019 2468-8231/ Crown Copyright © 2019 Published by Elsevier B.V.",
+    "keywords": [
+      "received revised",
+      "2019 published",
+      "revised",
+      "crown copyright",
+      "crown"
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "text": "This is an open access article under the CC BY license ( Molecular Catalysis 479 110607 A. Basso and S. Serban A good example of protein engineering coupled to a successful enzyme immobilization which enabled the transition from a chemical process to a green process is the use of engineered transaminase for sitagliptin manufacture as reported in paragraph 5.4.",
+    "keywords": [
+      "transaminase sitagliptin",
+      "sitagliptin manufacture",
+      "sitagliptin",
+      "enzyme",
+      "engineered transaminase",
+      "enzyme immobilization",
+      "protein engineering"
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "text": "Lipases have also been modified to broaden their selectivity and accept different substrates, as in the case of acrylate synthesis (paragraph 4.2) and in the case of cocoa butter analogues (paragraph 3.6) for the synthesis of 1,3-triglycerides; immobilization on solid supports is, in both cases, the key for successful industrial application.",
+    "keywords": [
+      "lipases modified",
+      "synthesis triglycerides",
+      "triglycerides immobilization",
+      "lipases",
+      "triglycerides"
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "text": "In industry the choice of using free soluble enzyme or enzyme in insoluble form is largely dependent on the cost of the enzyme and the application. Enzymes in an insoluble form are essentially a specialized form of heterogeneous catalysis in that they can be recovered and reused, often maintaining activity for large periods of time and being applicable to a variety of process formats.",
+    "keywords": [
+      "enzyme application",
+      "soluble enzyme",
+      "enzymes insoluble",
+      "application enzymes",
+      "enzyme insoluble",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "text": "Immobilization of an enzyme means combining the selectivity, stability and kinetic of that enzyme with the physical and chemical properties of the carrier in a specialized formulation which has as primary role maximizing the stability both physical and enzymatic of the biocatalyst (\nThere are many different methods used for enzyme immobilization, but industry always prefers simple and cost-effective methods.",
+    "keywords": [
+      "immobilization",
+      "formulation",
+      "enzymatic biocatalyst",
+      "enzyme",
+      "immobilization enzyme",
+      "enzyme immobilization",
+      "immobilization industry"
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "text": "The most used methods are based on physical immobilization (adsorption or physical entrapment) and chemical immobilization (covalent binding and cross linking). We here refer to interesting reviews for further reading. Alongside the advantages, it is important to recognize the limitations of immobilized enzymes .",
+    "keywords": [
+      "chemical immobilization",
+      "immobilized enzymes",
+      "physical immobilization",
+      "immobilization adsorption",
+      "enzyme",
+      "immobilization covalent"
+    ]
+  },
+  {
+    "chunk_id": 11,
+    "text": "For example, the fast kinetic of native enzymes such as amylases or proteases is dramatically reduced when immobilized due to diffusion restrictions, making the immobilized enzyme less economical.",
+    "keywords": [
+      "reduced immobilized",
+      "immobilized diffusion",
+      "enzyme economical",
+      "immobilized enzyme",
+      "enzymes",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 12,
+    "text": "Overall, the industrial relevance of immobilized enzymes is mainly application driven, in that there must be a differentiating advantage offered by such biocatalyst over soluble enzymes, whole cells or chemical catalysts.",
+    "keywords": [
+      "enzymes mainly",
+      "immobilized enzymes",
+      "enzymes",
+      "enzyme",
+      "biocatalyst",
+      "biocatalyst soluble"
+    ]
+  },
+  {
+    "chunk_id": 13,
+    "text": "In industrial processes, the cost contribution from an immobilized enzyme is dependent on the reaction kinetic and specificity but also on the number of cycles the enzyme is reused as an indirect measure of total productivity on a kg product per kg biocatalyst basis.",
+    "keywords": [
+      "biocatalyst",
+      "enzyme dependent",
+      "immobilized enzyme",
+      "enzyme",
+      "enzyme reused"
+    ]
+  },
+  {
+    "chunk_id": 14,
+    "text": "In this sense, valuable guidelines were provided to evaluate catalyst production cost in biocatalytic processes, and a range of productivity was recommended: 2000–10000 kg product / kg immobilized enzyme for bulk commodity products, going all the way to 50–100 kg product / kg immobilized enzyme for high-value pharma products.",
+    "keywords": [
+      "biocatalytic processes",
+      "cost biocatalytic",
+      "immobilized enzyme",
+      "biocatalytic",
+      "enzyme",
+      "catalyst production"
+    ]
+  },
+  {
+    "chunk_id": 15,
+    "text": "The challenge in scaling up processes using immobilized enzymes is mainly cost driven and before using an immobilized enzyme, the economic evaluation of the overall process is performed, considering all associated costs: - native enzyme - resin for enzyme immobilization - downstream processing - reactors - disposal of immobilized enzyme after use - regeneration of carriers.",
+    "keywords": [
+      "immobilization downstream",
+      "immobilized enzymes",
+      "immobilized enzyme",
+      "enzyme economic",
+      "enzyme",
+      "enzyme immobilization"
+    ]
+  },
+  {
+    "chunk_id": 16,
+    "text": "This analysis is providing an estimation of the minimum number of recycles of the immobilized enzyme to make the process economically Advantages and disadvantages of immobilized enzymes in industrial processes. Molecular Catalysis 479 110607 A. Basso and S. Serban advantageous compared to the use of a native enzyme.",
+    "keywords": [
+      "immobilized enzymes",
+      "enzymes industrial",
+      "immobilized enzyme",
+      "enzyme make",
+      "enzymes",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 17,
+    "text": "This suggests that the use of immobilized enzyme biocatalysts requires a good understanding of both technical and economic factors. The review will report on examples of applicability, use and advantages of immobilized enzymes as biocatalysts in large-scale industrial process.",
+    "keywords": [
+      "enzymes biocatalysts",
+      "immobilized enzymes",
+      "biocatalysts requires",
+      "enzyme biocatalysts",
+      "immobilized enzyme",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 18,
+    "text": "Typical reactors used in industry for biocatalysis reactions Use of immobilized enzyme allows to simplify process set up compared to the use of native enzymes.",
+    "keywords": [
+      "industry biocatalysis",
+      "biocatalysis reactions",
+      "immobilized enzyme",
+      "biocatalysis",
+      "enzymes",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 19,
+    "text": "When it comes to the choice of reactor to use with immobilized enzymes, different options are available, as shown in Stirred batch reactors (\nThe packed bed column reactors (\nAn alternative to packed bed reactors is the fluidized bed reactor When designing a biocatalysis process using immobilized enzymes for industrial production of key molecules, some variables need to be identified and carefully optimized.",
+    "keywords": [
+      "reactors fluidized",
+      "immobilized enzymes",
+      "biocatalysis process",
+      "bed reactors",
+      "enzyme",
+      "bed reactor"
+    ]
+  },
+  {
+    "chunk_id": 20,
+    "text": "- 1) Reaction temperature: this parameter has a great impact on kinetics. Typically, immobilized enzymes are more stable and can operate at higher temperature (approximately 10 °C higher) than non-immobilized enzymes. - 2) Amount of immobilized enzyme used: this is a key factor impacting on costs.",
+    "keywords": [
+      "immobilized enzymes",
+      "enzyme used",
+      "enzymes stable",
+      "immobilized enzyme",
+      "enzyme",
+      "enzymes immobilized"
+    ]
+  },
+  {
+    "chunk_id": 21,
+    "text": "Typical industrial operations in batch mode or fluidized mode run at 3–10 % w/v of immobilized enzyme / reaction total volume. - 3) Substrates excess: when more than one substrate is involved in a biocatalyzed reaction, the target becomes to work at equimolar concentrations, since this significantly affects costs during downstream processing.",
+    "keywords": [
+      "biocatalyzed reaction",
+      "involved biocatalyzed",
+      "immobilized enzyme",
+      "enzyme",
+      "enzyme reaction",
+      "biocatalyzed"
+    ]
+  },
+  {
+    "chunk_id": 22,
+    "text": "- 4) Immobilized enzyme replacement: the biocatalysts’ replacement, after prolonged reactions times (cycles in batch reactors or operation time in columns) is a key decision that impacts costs. Typically, industry replaces the immobilized enzyme when the residual activity is between 50 and 10% of the initial activity.",
+    "keywords": [
+      "replacement biocatalysts",
+      "replaces immobilized",
+      "enzyme replacement",
+      "biocatalysts replacement",
+      "immobilized enzyme",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 23,
+    "text": "When using packed column operations, a solution is also to partially replace the front end of the column with fresh enzyme, thus increasing operational life of the column. Immobilized enzymes in the food industry As opposed to the pharmaceutical industry and some parts of the chemical industry, the requirements in the food industry are to produce very large quantities of cost-sensitive products.",
+    "keywords": [
+      "packed column",
+      "immobilized enzymes",
+      "column operations",
+      "immobilized",
+      "enzyme",
+      "column immobilized"
+    ]
+  },
+  {
+    "chunk_id": 24,
+    "text": "In this case, the cost of the biocatalyst (immobilized enzyme) must be low, therefore, it has to show good operational stability allowing for a large number of cycles to be performed. Very often in the food industry, the continuous flow operational configuration is preferred over batch processes, especially when large quantities of products are to be made.",
+    "keywords": [
+      "biocatalyst immobilized",
+      "immobilized enzyme",
+      "enzyme",
+      "cost biocatalyst",
+      "biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 25,
+    "text": "Examples of immobilized enzymes used at large scale in continuous process for production of foodstuffs such as high fructose corn syrup (HFCS), cocoa butter analogues, allulose, galacto-oligosaccharides, etc. are presented below and in detail in the following paragraphs.",
+    "keywords": [
+      "examples immobilized",
+      "immobilized enzymes",
+      "enzymes",
+      "enzyme",
+      "enzymes used",
+      "fructose corn"
+    ]
+  },
+  {
+    "chunk_id": 26,
+    "text": "D-glucose/xylose isomerase for production of HFSC The use of immobilized D-Glucose/xylose isomerase (EC 5.3.1.5) in the production of so-called “high fructose corn syrup” (HFCS) represents the largest commercial process involving an immobilized enzyme, both in terms of the amount of enzyme used, as well as the volume of product produced.",
+    "keywords": [
+      "isomerase production",
+      "syrup hfcs",
+      "immobilized enzyme",
+      "enzyme",
+      "glucose",
+      "immobilized glucose",
+      "xylose isomerase"
+    ]
+  },
+  {
+    "chunk_id": 27,
+    "text": "In fact, over 500 tons of immobilized D- Glucose/xylose isomerase are consumed annually, enabling the production of approximately 10 million tons of HFCS per annum. HFCS is further used in production of fructose as a sweetener for beverages and foodstuffs, or for direct use as a food component.",
+    "keywords": [
+      "hfcs annum",
+      "production fructose",
+      "hfcs used",
+      "isomerase consumed",
+      "glucose",
+      "immobilized glucose"
+    ]
+  },
+  {
+    "chunk_id": 28,
+    "text": "Although D-xylose is the native substrate of D-Glucose/xylose isomerase, the enzyme has broad substrate specificity and efficiently converts D-glucose to D-fructose, in this industrial application (\nThe position of isomerization equilibrium is a function of temperature, tending to favor fructose formation at higher temperatures.",
+    "keywords": [
+      "substrate glucose",
+      "glucose fructose",
+      "fructose formation",
+      "enzyme",
+      "glucose xylose",
+      "glucose",
+      "xylose isomerase"
+    ]
+  },
+  {
+    "chunk_id": 29,
+    "text": "At 60 °C, the temperature at which most immobilized D-Glucose/xylose isomerase are used commercially, the conversion of dextrose produces around 50% fructose in the HFCS, whereas at 90 °C the equilibrium mixture contains 56% fructose.",
+    "keywords": [
+      "56 fructose",
+      "conversion dextrose",
+      "glucose xylose",
+      "glucose",
+      "dextrose produces",
+      "fructose hfcs"
+    ]
+  },
+  {
+    "chunk_id": 30,
+    "text": "Nowadays, processes for HFCS production are carried out in fixed bed reactors arranged in parallel and operated in a continuous manner Molecular Catalysis 479 110607 A. Basso and S. Serban. Corn-derived D-glucose syrup is converted into a mixture usually named HFCS-42 containing approximately 42% D-fructose, 50% D- glucose, 6% maltose, 2% maltotriose and traces of other sugars.",
+    "keywords": [
+      "glucose syrup",
+      "syrup converted",
+      "hfcs production",
+      "derived glucose",
+      "glucose",
+      "processes hfcs"
+    ]
+  },
+  {
+    "chunk_id": 31,
+    "text": "Higher concentrations of fructose, such as the 55% HFCS grade used in most soft drinks, are derived from chromatographic enrichment of the 42% grade to a final 90% D-fructose (HFCS-90). HFCS-90 is then blended with HFCS-42 to produce HFCS-55 (55% fructose). Commercial crystalline D-fructose with a purity of over 99% (w/w) can also be obtained starting from HFCS-42.",
+    "keywords": [
+      "fructose 55",
+      "concentrations fructose",
+      "fructose purity",
+      "fructose hfcs",
+      "55 fructose"
+    ]
+  },
+  {
+    "chunk_id": 32,
+    "text": "The two commercial preparations of immobilized D-glucose / xylose isomerase, mostly used for these productions, are based on inexpensive inorganic carriers such as bentonite clay and diatomaceous earth with enzyme cross-linked by glutaraldehyde, an approved reagent for enzyme immobilization by FDA under 21 CFR 173.357).",
+    "keywords": [
+      "immobilization fda",
+      "isomerase used",
+      "enzyme",
+      "glucose",
+      "immobilized glucose",
+      "xylose isomerase",
+      "enzyme immobilization"
+    ]
+  },
+  {
+    "chunk_id": 33,
+    "text": "The obtained composite is dewatered and mechanically extruded before drying in a fluidized bed dryer. The resulting immobilized D-glucose / xylose isomerase (Sweetzyme and GenSweet, marketed by Novozymes and Genencor now DuPont Industrial Biosciences, respectively) are extremely stable, with a half-life of over one year when used in a packed bed reactor at 60 °C.",
+    "keywords": [
+      "isomerase sweetzyme",
+      "marketed novozymes",
+      "glucose xylose",
+      "glucose",
+      "immobilized glucose",
+      "xylose isomerase"
+    ]
+  },
+  {
+    "chunk_id": 34,
+    "text": "Epimerase for allulose Allulose is a “zero-calorie” sweetener and has a sweetness suggested to be similar to dextrose (\nD-allulose is the C-3 epimer of D-fructose ( Molecular Catalysis 479 110607 A. Basso and S. Serban glutaraldehyde.",
+    "keywords": [
+      "allulose",
+      "allulose allulose",
+      "dextrose allulose",
+      "epimerase allulose",
+      "allulose epimer"
+    ]
+  },
+  {
+    "chunk_id": 35,
+    "text": "The primary target market for allulose is food and beverage manufacturers; replacing dextrose, fructose or HFCS by allulose in their products significantly reduces calories without altering properties imparted by the sugar component, such as bulking, browning, texture and sweetness.",
+    "keywords": [
+      "allulose food",
+      "allulose",
+      "allulose products",
+      "market allulose",
+      "hfcs allulose"
+    ]
+  },
+  {
+    "chunk_id": 36,
+    "text": "The great economic advantage of using immobilization on ion exchange resins in food applications is the possibility to regenerate resins using cost-effective reagents: when enzyme is exhausted and activity is too low, the carrier can be regenerated in situ using NaOH and HCl, which remove the enzyme and clean the resin from fouling matter.",
+    "keywords": [
+      "using immobilization",
+      "resins using",
+      "enzyme",
+      "regenerate resins",
+      "immobilization ion",
+      "exchange resins"
+    ]
+  },
+  {
+    "chunk_id": 37,
+    "text": "A new batch of enzyme is typically added directly in the column containing the ion exchange resin and immobilization takes place. In food industry this is usually done for a number of cycles varying from 5 to 10.",
+    "keywords": [
+      "enzyme typically",
+      "resin immobilization",
+      "enzyme",
+      "ion exchange",
+      "batch enzyme"
+    ]
+  },
+  {
+    "chunk_id": 38,
+    "text": "Although it is not metabolized by the human body, allulose is naturally present in processed cane and beet molasses, steam-treated coffee, wheat plant products and high fructose corn syrup with a typical total daily intake greater than 0.2 g per day.",
+    "keywords": [
+      "allulose",
+      "allulose naturally",
+      "processed cane",
+      "body allulose",
+      "fructose corn"
+    ]
+  },
+  {
+    "chunk_id": 39,
+    "text": "In recent years, allulose was recognized as GRAS (Generally Regarded As Safe) in the United States and it is being commercialized and used as a foodstuff in other countries such as Mexico, Columbia, Chile and Costa Rica. Allulose is not an approved foodstuff in Europe but several allulose producers are currently applying for its approval as a novel food ingredient in the European Union.",
+    "keywords": [
+      "europe allulose",
+      "rica allulose",
+      "allulose approved",
+      "allulose recognized",
+      "allulose producers",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 40,
+    "text": "Starting from a solution of lactose at about 13% (w/w), immobilized beta-galactosidase is used to produce galactose and a final concentration of tagatose of 4% w/w. Reports were also published on the use of immobilized l-arabinose isomerase (EC 5.3.1.4) to produce tagatose in stirred tank or continuous flow operations.",
+    "keywords": [
+      "concentration tagatose",
+      "tagatose stirred",
+      "solution lactose",
+      "produce galactose",
+      "produce tagatose"
+    ]
+  },
+  {
+    "chunk_id": 41,
+    "text": "In 2000 a Korean company Tongyang Confectionary Co. published a patent presenting the use of l-arabinose isomerase from recombinant Escherichia coli for the production of tagatose. However, the immobilized enzyme on Ca alginate beads showed lower production yield compared to the use of free enzyme.",
+    "keywords": [
+      "tagatose immobilized",
+      "isomerase recombinant",
+      "enzyme",
+      "use arabinose",
+      "production tagatose",
+      "arabinose isomerase"
+    ]
+  },
+  {
+    "chunk_id": 42,
+    "text": "The difficulty to regenerate resins as Ca alginate is also a limiting step in the industrialization so, the economic advantage of using immobilized enzymes in this case is lower compared to the use of native enzymes. In 2011 CJ CheilJedang Corp reported that ketose-3-epimerases (EC 5.1.3.31) expressed in different microorganisms can interconvert fructose and allulose.",
+    "keywords": [
+      "enzymes 2011",
+      "native enzymes",
+      "immobilized enzymes",
+      "ketose epimerases",
+      "enzymes",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 43,
+    "text": "The technical challenge was to create an enzyme able to convert fructose to D-psicose, by epimerasization of hydroxy group in position 3, using a D-psicose epimerase derived from Agrobacterium tumefaciens.",
+    "keywords": [
+      "fructose",
+      "convert fructose",
+      "fructose psicose",
+      "create enzyme",
+      "enzyme",
+      "psicose epimerase"
+    ]
+  },
+  {
+    "chunk_id": 44,
+    "text": "The new enzyme was characterized by thermostability and high activity (\nHowever, the major step towards industrialization came from Tate & Lyle in 2014 with the development of a full industrial process using improved enzymes immobilized on an ion exchange resin and the development of a sweetener composition including fructose, sucralose and allulose.",
+    "keywords": [
+      "improved enzymes",
+      "enzymes",
+      "enzyme",
+      "enzymes immobilized",
+      "new enzyme"
+    ]
+  },
+  {
+    "chunk_id": 45,
+    "text": "The use of immobilized enzyme opened the door to the production of allulose using continuous packed bed configurations, with significant cost reductions.",
+    "keywords": [
+      "allulose",
+      "immobilized enzyme",
+      "allulose using",
+      "enzyme",
+      "production allulose"
+    ]
+  },
+  {
+    "chunk_id": 46,
+    "text": "3.4. β-Galactosidase for galacto-oligosaccharides In general, galacto-oligosaccharides (GOS) and oligosaccharides in general have received a significant number of attention lately, mainly due to their many beneficial health effects and wide applications as prebiotic food.",
+    "keywords": [
+      "galacto oligosaccharides",
+      "oligosaccharides gos",
+      "gos oligosaccharides",
+      "oligosaccharides general",
+      "oligosaccharides"
+    ]
+  },
+  {
+    "chunk_id": 47,
+    "text": "GOS comprise a chain of galactose units that arise through consecutive transgalactosylation reactions, with a terminal glucose unit (\nIn fact, the process for manufacture of allulose is a continuous fixed bed reactor with fructose solution at pH 8.0 pumped in and recirculated continuously at a rate of 8 bed volumes per hour, with the jacketed columns heated to a temperature of 57 °C.",
+    "keywords": [
+      "galactose",
+      "manufacture allulose",
+      "chain galactose",
+      "glucose",
+      "gos comprise",
+      "galactose units"
+    ]
+  },
+  {
+    "chunk_id": 48,
+    "text": "The process is now industrialized and in March 2017, Tate & Lyle launched DolciaPrima® crystalline allulose using the above manufacturing process. Beta-galactosidase for tagatose Covalently immobilized β-galactosidase can be used successfully in packed bed or plug-flow reactors for continuous production of GOS from lactose.",
+    "keywords": [
+      "immobilized galactosidase",
+      "crystalline allulose",
+      "galactosidase used",
+      "galactosidase tagatose",
+      "beta galactosidase"
+    ]
+  },
+  {
+    "chunk_id": 49,
+    "text": "Sitagliptin was found that high concentrations of lactose in the reaction or lactose slurry would favor the stability of the immobilized enzyme used in this process. Operating pH 7, 65% w/w lactose slurry and 60 °C of temperature allow the formation of up to 57% GOS at 24 h reaction time.",
+    "keywords": [
+      "reaction lactose",
+      "sitagliptin",
+      "enzyme used",
+      "immobilized enzyme",
+      "lactose",
+      "enzyme",
+      "lactose reaction"
+    ]
+  },
+  {
+    "chunk_id": 50,
+    "text": "Such process was considered suitable for GOS synthesis in an industrial process by Friesland Brands B.V. and allows for the preparation of a 57% GOS content which is close to the required final product of 75% GOS syrup. Tagatose is another emerging sweetener, derived from animal sources.",
+    "keywords": [
+      "sweetener derived",
+      "tagatose",
+      "gos synthesis",
+      "syrup tagatose",
+      "gos syrup"
+    ]
+  },
+  {
+    "chunk_id": 51,
+    "text": "Tagatose is a sweetener with 92% sweetness of sucrose (\nIn 2014, Inalco has reported a process for manufacture of tagatose using immobilized beta-galactosidase. This process proposed the recovery and valorization of lactose contained in whey permeates at a concentration of 18%.",
+    "keywords": [
+      "tagatose using",
+      "tagatose",
+      "manufacture tagatose",
+      "valorization lactose",
+      "tagatose sweetener"
+    ]
+  },
+  {
+    "chunk_id": 52,
+    "text": "Tagatose can be obtained by a first hydrolysis of lactose using immobilized beta-galactosidase (EC 3.2.1.23) to obtain glucose and galactose. Glucose is removed by subsequent deglycosylation with baker’s yeast; tagatose is obtained by the subsequent epimerization of galactose with aerated Ca(OH)2 (\n3.5.",
+    "keywords": [
+      "tagatose obtained",
+      "galactose glucose",
+      "yeast tagatose",
+      "glucose",
+      "glucose galactose",
+      "hydrolysis lactose"
+    ]
+  },
+  {
+    "chunk_id": 53,
+    "text": "Lipase CalB for vitamin C esters L-Ascorbic acid (vitamin C) is the major water-soluble natural antioxidant. Acting as a free radical scavenger, L-ascorbic acid and its derivatives react with oxygen, thus removing it in a closed system.",
+    "keywords": [
+      "lipase calb",
+      "esters ascorbic",
+      "ascorbic acid",
+      "vitamin esters",
+      "lipase"
+    ]
+  },
+  {
+    "chunk_id": 54,
+    "text": "Additionally, esters of L-ascorbic acid with long-chain fatty acids (E-304) are Inalco has developed a cost-effective ionic/covalent immobilization of beta-galactosidase on ion exchange resin using primary or tertiary amine functionalized styrene-divinyl benzene pre-activated with Molecular Catalysis 479 110607 A. Basso and S. Serban employed as antioxidants in foods rich in lipids due to their solubility in fats compared to Vitamin C, which is insoluble in oils.",
+    "keywords": [
+      "galactosidase ion",
+      "esters ascorbic",
+      "galactosidase",
+      "ascorbic acid",
+      "beta galactosidase"
+    ]
+  },
+  {
+    "chunk_id": 55,
+    "text": "Ascorbyl palmitate and stearate are currently produced by reacting ascorbic acid with sulphuric acid followed by re-esterification with the corresponding fatty acid, and subsequently purified by re-crystallization. This chemical process has some disadvantages such as the use of strong acids, the low yields due to non-regioselective reactions and the need for tedious product isolation.",
+    "keywords": [
+      "ascorbyl palmitate",
+      "palmitate stearate",
+      "reacting ascorbic",
+      "ascorbic acid",
+      "ascorbic"
+    ]
+  },
+  {
+    "chunk_id": 56,
+    "text": "The biocatalytic methods described below employ the immobilized lipase B from Candida antarctica (CalB) as biocatalyst and free fatty acids or activated esters such as acyl donors (\nThe biocatalytic conversion can achieve levels of approx. 95% conversion depending on the operating temperature, the efficiency of the side product removal, and the length of the fatty acid.",
+    "keywords": [
+      "biocatalytic conversion",
+      "biocatalytic",
+      "biocatalyst",
+      "calb biocatalyst",
+      "biocatalytic methods"
+    ]
+  },
+  {
+    "chunk_id": 57,
+    "text": "Although enzymatic synthesis offers some advantages compared with the current chemical processes, such as lower reaction temperatures, purer product and reduced downstream processing, most of the production of ascorbyl esters is still performed by chemical synthesis, so this biocatalyzed process is still in its initial development stage.",
+    "keywords": [
+      "production ascorbyl",
+      "synthesis biocatalyzed",
+      "ascorbyl esters",
+      "enzymatic synthesis",
+      "biocatalyzed process"
+    ]
+  },
+  {
+    "chunk_id": 58,
+    "text": "This is due to the long reaction time required by the enzymatic process and the high costs of the immobilized enzymes compared to the chemical catalysts. Lipase RM and lipase TL for cocoa butter analogues The origin of vegetable oils (i.e. palm, rapeseed, canola, sunflower, etc.)",
+    "keywords": [
+      "rm lipase",
+      "enzyme",
+      "catalysts lipase",
+      "lipase rm",
+      "cocoa butter",
+      "lipase"
+    ]
+  },
+  {
+    "chunk_id": 59,
+    "text": "determines the physical properties of fats and oils used by food manufacturers, since every oil has a different distribution and type of fatty acids in the 1, 2, 3 positions of triacylglycerides.",
+    "keywords": [
+      "fatty acids",
+      "positions triacylglycerides",
+      "triacylglycerides",
+      "properties fats",
+      "fats oils"
+    ]
+  },
+  {
+    "chunk_id": 60,
+    "text": "Fractionation, hydrogenation and chemical interesterification have each been largely employed for obtaining the desired melting properties of food oils and fats, particularly in the production of margarine and baking fat. Compared to chemical interesterification, the enzymatic interesterification of food oils and fats offers the great advantage of better control of final product composition.",
+    "keywords": [
+      "oils fats",
+      "production margarine",
+      "food oils",
+      "fractionation hydrogenation",
+      "margarine baking"
+    ]
+  },
+  {
+    "chunk_id": 61,
+    "text": "Due to this selectivity, enzymatic transesterification by 1, 3 selective lipases (EC 3.1.1.3) is now used for commercial production of oils and fats with desired physical properties and with elimination of hydrogenated trans fats that cause serious health concerns.",
+    "keywords": [
+      "selective lipases",
+      "transesterification selective",
+      "lipases",
+      "enzymatic transesterification",
+      "lipases ec"
+    ]
+  },
+  {
+    "chunk_id": 62,
+    "text": "Lipases that are sn-1,3 specific (Mucor miehei, Rhizopus arhizus, Aspergillus niger, and Thermomyces lanuginosus, formerly Humicola lanuginosa) typically do not exchange acyl groups at the 2 position due to steric hindrance (\nEnzymatic transesterification was initially evaluated for the production of a cocoa butter equivalent that employed the sn-1,3 specificity of a variety of fungal lipases.",
+    "keywords": [
+      "fungal lipases",
+      "lipases sn",
+      "lipases",
+      "enzymatic transesterification",
+      "aspergillus niger"
+    ]
+  },
+  {
+    "chunk_id": 63,
+    "text": "Cocoa butter equivalents are semisolid oils that typically melt at 37 °C; they are obtained from cheaper sources than cocoa, such as palm, sunflower or rapeseed oil. In the 1980’s Unilever developed a lipase from Rhizopus niveus immobilized by adsorption onto diatomaceous earth.",
+    "keywords": [
+      "butter equivalents",
+      "sources cocoa",
+      "semisolid oils",
+      "cocoa butter",
+      "cocoa"
+    ]
+  },
+  {
+    "chunk_id": 64,
+    "text": "The aim was to convert a mixture of palm mid fraction and stearic acid into a cocoa butter equivalent containing an increased level of the desired triglycerides, 1(3)-palmitoyl-3(1)-stearoyl-2-monooleine and 1,3-distearoyl2-monooleine.",
+    "keywords": [
+      "triglycerides palmitoyl",
+      "desired triglycerides",
+      "acid cocoa",
+      "cocoa butter",
+      "triglycerides"
+    ]
+  },
+  {
+    "chunk_id": 65,
+    "text": "At a similar period of time, the Fuji Oil Company also developed a process using a 1,3-specific lipase from Rhizopus niveus adsorbed on diatomaceous earth to catalyze the transesterification between 1,3-dipalmitoyl-2-olein (from palm oil mid fraction) and ethyl stearate. The aim was to produce a cocoa butter substitute suitable for chocolate manufacture.",
+    "keywords": [
+      "butter substitute",
+      "catalyze transesterification",
+      "cocoa butter",
+      "specific lipase",
+      "lipase"
+    ]
+  },
+  {
+    "chunk_id": 66,
+    "text": "Following this early work, continuous enzymatic interesterification processes were developed and applied in the production of margarine and shortening feedstock.",
+    "keywords": [
+      "continuous enzymatic",
+      "margarine",
+      "margarine shortening",
+      "enzymatic interesterification",
+      "production margarine"
+    ]
+  },
+  {
+    "chunk_id": 67,
+    "text": "This is due to the fact that the enzymatic Molecular Catalysis 479 110607 A. Basso and S. Serban transesterification leads to fully-randomized products with almost identical properties to the products obtained by chemical transesterification, but with the advantage of fewer partial glycerides, higher natural tocopherol content and less undesired color.",
+    "keywords": [
+      "transesterification advantage",
+      "serban transesterification",
+      "transesterification leads",
+      "chemical transesterification",
+      "transesterification"
+    ]
+  },
+  {
+    "chunk_id": 68,
+    "text": "In 2002, Novozymes started the commercialization of Lipozyme® TL IM, a robust cost-effective lipase from Thermomyces lanuginosus (TL) immobilized on a silicate support and an organic binder in form of a granulate (300–1000 μm size).",
+    "keywords": [
+      "lipozyme tl",
+      "lipase thermomyces",
+      "effective lipase",
+      "lipozyme",
+      "commercialization lipozyme"
+    ]
+  },
+  {
+    "chunk_id": 69,
+    "text": "The large particle size distribution enabled The use of sitagliptin-metformin biocatalyst in a plug flow, packed bed continuous reactor and the hydrophilic carrier retains the required water needed to maintain enzyme activity in a continuous process.",
+    "keywords": [
+      "metformin",
+      "sitagliptin",
+      "biocatalyst plug",
+      "metformin biocatalyst",
+      "enzyme",
+      "biocatalyst",
+      "maintain enzyme"
+    ]
+  },
+  {
+    "chunk_id": 70,
+    "text": "Recently, Novozymes has launched a new preparation of immobilized Lipase TL IM, named Novozym® 40086, which benefits from a better polymeric resin in form of spherical beads instead of silica granulates for enzyme immobilization without the need to further engineer the enzyme. This offers benefits over silica when packed into columns.",
+    "keywords": [
+      "novozymes launched",
+      "lipase tl",
+      "immobilized lipase",
+      "preparation immobilized",
+      "enzyme",
+      "enzyme immobilization"
+    ]
+  },
+  {
+    "chunk_id": 71,
+    "text": "In July 2002 Archer Daniels Midland (ADM) implemented the transesterification-based production of trans-free margarines and shortenings using Lipozyme TL IM in sequential reactors configuration. The U.S. Environmental Protection Agency awarded ADM a Presidential Green Chemistry Award in 2005 for its use of enzymatic interesterification for manufacture of NovaLipid[TM] interesterified oils.",
+    "keywords": [
+      "implemented transesterification",
+      "lipozyme tl",
+      "transesterification based",
+      "using lipozyme",
+      "transesterification"
+    ]
+  },
+  {
+    "chunk_id": 72,
+    "text": "In 2009, Alimentos Polar Comercial C.A., in Venezuela, reported the start-up of its new De Smet Ballestra Interzym Interesterification plant, with a capacity of 80 ton per day, and in 2011, Industrias ALES in Manta, Ecuador, announced its plans for construction of a 40 tpd enzymatic transesterification plant, also to be built by De Smet Ballestra.",
+    "keywords": [
+      "ballestra interzym",
+      "smet ballestra",
+      "tpd enzymatic",
+      "transesterification plant",
+      "plant built"
+    ]
+  },
+  {
+    "chunk_id": 73,
+    "text": "The De Smet Interzym process utilizes Lipozyme TL IM as an alternative to both chemical interesterification and hydrogenation in a packed bed reactor.",
+    "keywords": [
+      "lipozyme tl",
+      "lipozyme",
+      "interzym process",
+      "utilizes lipozyme",
+      "smet interzym"
+    ]
+  },
+  {
+    "chunk_id": 74,
+    "text": "IOI-Loders Croklaan in Rotterdam, Netherlands utilizes enzymatic transesterification for commercial production of Betapol, a vegetable fat blend that has been specially developed for infant formulas and a variety of fats for margarine and baked goods under the SansTrans™ product name, with production capacity of 100 000 tons per year.",
+    "keywords": [
+      "production betapol",
+      "transesterification commercial",
+      "fat blend",
+      "enzymatic transesterification",
+      "betapol vegetable"
+    ]
+  },
+  {
+    "chunk_id": 75,
+    "text": "Lipase CalB for omega’3 ethyl esters Polyunsaturated fatty acids (PUFA), such as omega-3 fatty acids, are vital to everyday life and function. For example, the beneficial effects of omega-3 fatty acids such as m-5,8,11,14,17-eicosapentaenoic acid (EPA) and c/s-4,7,10,13,16,19-docosahexaenoic acid (DHA) on lowering serum triglycerides are now well established.",
+    "keywords": [
+      "fatty acids",
+      "lipase calb",
+      "omega fatty",
+      "serum triglycerides",
+      "triglycerides"
+    ]
+  },
+  {
+    "chunk_id": 76,
+    "text": "These compounds are also known for other cardioprotective benefits. Omega-3 fatty acids are often derived from marine fish, microbial, and/or algal oils. Such sources typically provide the PUFA in a triglyceride form where other undesired fatty acids (e.g. saturated fatty acids) are present alongside a desired PUFA in the triglyceride molecule.",
+    "keywords": [
+      "fatty acids",
+      "benefits omega",
+      "omega fatty",
+      "pufa triglyceride",
+      "triglyceride form"
+    ]
+  },
+  {
+    "chunk_id": 77,
+    "text": "The food industry is focusing efforts on modifying the composition of omega-3 fish oils to improve organoleptic and bioavailability properties.",
+    "keywords": [
+      "omega fish",
+      "fish oils",
+      "oils",
+      "bioavailability",
+      "composition omega",
+      "oils improve"
+    ]
+  },
+  {
+    "chunk_id": 78,
+    "text": "Pronova BioPharma Norge AS reported on a process for separating ethyl ester EE fractions enriched in EPA (eicosapentaenoic acid, C20:5) from free fatty acid fraction (FFA) enriched in DHA (docosahexaenoic acid, C22:6) by direct esterification of fish oil free fatty acids with ethanol using immobilized CalB followed by distillation.",
+    "keywords": [
+      "esterification fish",
+      "epa eicosapentaenoic",
+      "ethyl ester",
+      "eicosapentaenoic acid",
+      "esterification"
+    ]
+  },
+  {
+    "chunk_id": 79,
+    "text": "The process is described as follows: starting solution containing 14% EPA and 15% DHA, 3 equivalents of ethanol and mixed at 40 °C in the presence of 5% w/w immobilized CalB on styrene/divinyl benzene (Novozym 435) as biocatalyst.",
+    "keywords": [
+      "ethanol",
+      "ethanol mixed",
+      "equivalents ethanol",
+      "biocatalyst",
+      "435 biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 80,
+    "text": "Over 78% conversion of ethyl ester (EE) and 22% remaining free fatty acid (FFA) was reached after 4 h reaction and the residual FFA was increased to contain 49% DHA and 6% EPA (\nOcean Nutrition Canada Ltd. reported a method of modification of omega-3 fish oils using immobilized lipase from Thermomyces lanuginosus (EC 3.1.1.3.)",
+    "keywords": [
+      "lipase thermomyces",
+      "fish oils",
+      "immobilized lipase",
+      "ethyl ester",
+      "lipase"
+    ]
+  },
+  {
+    "chunk_id": 81,
+    "text": "for hydrolysis of the glyceride, followed by a separation of the free saturated fatty acids FFA from the glycerides and a final enzymatic esterification of the hydrolyzed glyceride by immobilized CalB with a polyunsaturated fatty acid in water free medium. The whole process is intended to increase the concentration of polyunsaturated fatty acid in an oil composition.",
+    "keywords": [
+      "hydrolyzed glyceride",
+      "enzymatic esterification",
+      "glyceride immobilized",
+      "hydrolysis glyceride",
+      "esterification hydrolyzed"
+    ]
+  },
+  {
+    "chunk_id": 82,
+    "text": "DSM has reported the use of immobilized CalB for the esterification and consequent reduction of PUFA in fish oils. In the DSM process, FFA fish oil and glycerol were added to a fixed-bed enzyme reactor able Molecular Catalysis 479 110607 A. Basso and S. Serban to process 4000 and 8000 Kg per run, using immobilized CalB on polymeric beads based on styrene/divinyl benzene.",
+    "keywords": [
+      "fish oils",
+      "enzyme",
+      "calb esterification",
+      "calb polymeric",
+      "enzyme reactor",
+      "esterification"
+    ]
+  },
+  {
+    "chunk_id": 83,
+    "text": "The system was heated at 70 °C for a reaction cycle of 24 h and final composition was 15% FFA and 85% triglyceride. Beta-galactosidase for lactose hydrolysis The concentration of lactose, a disaccharide composed of glucose and galactose, is 4.3–4.5 % in cow’s milk and represents 38–40 % of the total milk solids.",
+    "keywords": [
+      "galactosidase lactose",
+      "lactose",
+      "glucose",
+      "glucose galactose",
+      "lactose hydrolysis",
+      "lactose disaccharide"
+    ]
+  },
+  {
+    "chunk_id": 84,
+    "text": "Lactose in milk and milk products is not hydrolyzed in the stomach or in the upper section of the small intestine and passes in the next section of the intestine where beta-galactosidase produced by intestinal flora hydrolyses it into galactose and glucose.",
+    "keywords": [
+      "hydrolyses galactose",
+      "galactosidase produced",
+      "lactose milk",
+      "galactose glucose",
+      "lactose",
+      "glucose"
+    ]
+  },
+  {
+    "chunk_id": 85,
+    "text": "Sitagliptin is estimated that an average of 65% of the population (up to 90% in some Asian communities) is not able to secrete enough betagalactosidase, creating many health problems by making these people lactose intolerant.",
+    "keywords": [
+      "sitagliptin",
+      "betagalactosidase",
+      "sitagliptin estimated",
+      "people lactose",
+      "lactose intolerant"
+    ]
+  },
+  {
+    "chunk_id": 86,
+    "text": "Removal of lactose from milk and milk products makes them acceptable to lactose-intolerant people, so the dairy industry has devoted high resources to develop the hydrolysis of lactose by beta-galactosidase.",
+    "keywords": [
+      "lactose milk",
+      "lactose beta",
+      "lactose",
+      "hydrolysis lactose",
+      "removal lactose"
+    ]
+  },
+  {
+    "chunk_id": 87,
+    "text": "Since the sweetening power of lactose, glucose and galactose is 20, 70 and 58% respectively to that of sucrose, the hydrolyzed milk is much sweeter than ordinary milk (\nThe industry has developed two hydrolytic methods using beta-galactosidase.",
+    "keywords": [
+      "hydrolyzed milk",
+      "sucrose hydrolyzed",
+      "lactose",
+      "glucose",
+      "glucose galactose",
+      "lactose glucose"
+    ]
+  },
+  {
+    "chunk_id": 88,
+    "text": "The enzyme β-galactosidase (EC 3.2.1.23), most commonly known as lactase, hydrolyses lactose into its monomers: glucose and galactose and it is used to remove lactose from milk (\nThe other process involves the use of immobilized beta-galactosidase on the skimmed milk and when hydrolysis is complete, the fat is added again to the hydrolyzed milk to adjust its content.",
+    "keywords": [
+      "lactose",
+      "enzyme",
+      "glucose",
+      "enzyme galactosidase",
+      "remove lactose",
+      "lactase hydrolyses",
+      "hydrolyses lactose"
+    ]
+  },
+  {
+    "chunk_id": 89,
+    "text": "This process has of course, compared to the addition of free enzyme, the advantage of recycling the immobilized enzyme and a final product free from additional components such as enzymes, which are potential allergens.",
+    "keywords": [
+      "free enzyme",
+      "enzyme advantage",
+      "enzyme final",
+      "immobilized enzyme",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 90,
+    "text": "In the 1970’s, Snam Progetti, Italy, developed an immobilized galactosidase from Saccharomyces lactis entrapped in cellulose triacetate fibers that was used successfully in Centrale del Latte, Italy and Snow Brand Milk Products, Japan.",
+    "keywords": [
+      "immobilized galactosidase",
+      "galactosidase saccharomyces",
+      "saccharomyces lactis",
+      "galactosidase",
+      "entrapped cellulose"
+    ]
+  },
+  {
+    "chunk_id": 91,
+    "text": "The reactor developed was a rotary horizontal column reactor and in 1977 an industrial plant was operating 10 tons milk per day; the immobilized enzyme was used for 50 cycles with a loss of enzyme activity of less than 9%. Corning Glass Works developed a pilot process based on a column reactor with 6800 liters of liquid whey treated per day.",
+    "keywords": [
+      "column reactor",
+      "reactor 1977",
+      "reactor developed",
+      "reactor",
+      "immobilized enzyme",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 92,
+    "text": "The immobilized enzyme has a life of at least 4000 h with the galactosidase being immobilized on alumina particles. In another similar application Sumitomo Chemical, Japan, developed an immobilized beta-galactosidase from Aspergillus oryzae where the enzyme was covalently bound to an ion-exchange resin based on polyphenolic formaldehyde (Duolite type resins).",
+    "keywords": [
+      "galactosidase aspergillus",
+      "immobilized alumina",
+      "galactosidase immobilized",
+      "immobilized enzyme",
+      "enzyme",
+      "beta galactosidase"
+    ]
+  },
+  {
+    "chunk_id": 93,
+    "text": "Such process was successfully used by Drouin Cooperative Butter Factory, Australia. The immobilization was achieved by exploiting the isoelectric point (pI) of the enzyme and the charges on the resin. The main issue of using immobilized beta-galactosidase is the microbial contamination of the biocatalyst and the need to design specific process to control this.",
+    "keywords": [
+      "galactosidase microbial",
+      "contamination biocatalyst",
+      "immobilization achieved",
+      "enzyme",
+      "biocatalyst",
+      "biocatalyst need"
+    ]
+  },
+  {
+    "chunk_id": 94,
+    "text": "Therefore, the use of native enzyme is still predominant in industry. Immobilized enzymes in chemical industry In the last 20–30 years, the focus of the chemical industry has turned increasingly towards the implementation of green and sustainable processes to produce bulk chemicals, but also chiral molecules for a variety of applications.",
+    "keywords": [
+      "immobilized enzymes",
+      "native enzyme",
+      "enzymes",
+      "industry immobilized",
+      "enzyme",
+      "enzymes chemical"
+    ]
+  },
+  {
+    "chunk_id": 95,
+    "text": "Similarly to the food industry, in the chemical industry the biocatalysts must generate products at ton scale making recyclability a key factor alongside selectivity and high reaction turnover. This is somewhat different to the pharmaceutical industry, where the biocatalysts are being used to produce hundred kg scale of final product.",
+    "keywords": [
+      "biocatalysts generate",
+      "industry chemical",
+      "industry biocatalysts",
+      "biocatalysts used",
+      "biocatalysts"
+    ]
+  },
+  {
+    "chunk_id": 96,
+    "text": "The examples in below will give an overview on several large-scale industrial processes employing immobilized enzymes for bulk chemicals manufacturing. Lipase CalB for chiral amines Chiral amines play an important role in stereoselective organic synthesis. They are used directly as resolving agents, building blocks or chiral auxiliaries.",
+    "keywords": [
+      "immobilized enzymes",
+      "enzymes bulk",
+      "enzymes",
+      "manufacturing lipase",
+      "enzyme",
+      "chemicals manufacturing"
+    ]
+  },
+  {
+    "chunk_id": 97,
+    "text": "While classically available through racemic resolution with optically active acids, biotechnological approaches also open a way to chiral amines. The enantioselective hydrolysis of amides was previously reported using either dinitrogen tetroxide or by chiral separation which is however industrially not feasible.",
+    "keywords": [
+      "enantioselective",
+      "enantioselective hydrolysis",
+      "hydrolysis amides",
+      "chiral amines",
+      "amines enantioselective"
+    ]
+  },
+  {
+    "chunk_id": 98,
+    "text": "In 1997 BASF reported a novel method for manufacture and purification of chiral amines, using an enzymatic process instead of previously reported chemical methods.",
+    "keywords": [
+      "amines using",
+      "enzymatic process",
+      "using enzymatic",
+      "purification chiral",
+      "chiral amines"
+    ]
+  },
+  {
+    "chunk_id": 99,
+    "text": "The process allows to obtain both enantiomers with enantiopurity > 99% by resolution of a racemate using 3 steps (\nThe initial step involves chiral acylation of rac-phenylethylamine with i-propyl methyloxyacetate in methyl tert-butyl ether (MTBE), using immobilized CalB to give a mixture containing S-phenylethylamine and the corresponding amide of R-phenylethylamine.",
+    "keywords": [
+      "obtain enantiomers",
+      "chiral acylation",
+      "enantiomers",
+      "enantiomers enantiopurity",
+      "containing phenylethylamine"
+    ]
+  },
+  {
+    "chunk_id": 100,
+    "text": "The Molecular Catalysis 479 110607 A. Basso and S. Serban biocatalytic transformation is performed in very high substrate concentrations (300 g/l of 1-phenylethylamine and i-propyl methyloxyacetate) with a 50% conversion in a continuous flow reactor. The second step involves separation of unreacted amine.",
+    "keywords": [
+      "serban biocatalytic",
+      "catalysis",
+      "biocatalytic transformation",
+      "biocatalytic",
+      "molecular catalysis"
+    ]
+  },
+  {
+    "chunk_id": 101,
+    "text": "S- Phenylethylamine can be recovered by fractionation distillation and then separated from the amide with enantiopurity of 99%. The final step involves the cleavage of amide by hydrolysis using ethylene glycol at 170 °C in presence of NaOH, giving R-phenylethylamine with e.e.",
+    "keywords": [
+      "phenylethylamine recovered",
+      "amide hydrolysis",
+      "giving phenylethylamine",
+      "separated amide",
+      "phenylethylamine"
+    ]
+  },
+  {
+    "chunk_id": 102,
+    "text": "The process has been applied to a variety of aromatic amines such as substituted phenylethylamines, bicyclic amines, aliphatic amines, cycloaliphatic amines, aryl alkyl amines and has been scaled up by BASF. These chiral amines are commercialized under the brand ChiPros®.",
+    "keywords": [
+      "amines commercialized",
+      "aromatic amines",
+      "cycloaliphatic amines",
+      "chiral amines",
+      "bicyclic amines"
+    ]
+  },
+  {
+    "chunk_id": 103,
+    "text": "As an additional note, BASF has explored the potential of other enzymes rather than lipases to introduce chirality in building blocks. Some examples are enoate reductases (EC 1.3.1.31) for the stereoselective reduction of C]C bonds or alcohol dehydrogenase (EC 1.1.1.1) for the reduction of ketones.",
+    "keywords": [
+      "enzymes lipases",
+      "enzymes",
+      "lipases",
+      "enzyme",
+      "lipases introduce",
+      "enoate reductases"
+    ]
+  },
+  {
+    "chunk_id": 104,
+    "text": "Lipase CalB for acrylates and organosilicone esters or amides Acrylates are key building blocks used in the production of polymeric-based materials, including biopolymers, as demonstrated by the intense research activities in this field from companies such as Sumitomo.",
+    "keywords": [
+      "lipase calb",
+      "amides acrylates",
+      "biopolymers demonstrated",
+      "lipase",
+      "biopolymers"
+    ]
+  },
+  {
+    "chunk_id": 105,
+    "text": "Traditional chemical processes for producing acrylate esters employ high temperatures frequently leading to polymerization of acrylic double bonds. To avoid these unwanted reactions, polymerization inhibitors and acid catalysts have been introduced allowing for reactions at 80 to 100 °C.",
+    "keywords": [
+      "polymerization acrylic",
+      "reactions polymerization",
+      "producing acrylate",
+      "acrylate",
+      "acrylate esters",
+      "inhibitor"
+    ]
+  },
+  {
+    "chunk_id": 106,
+    "text": "Enzymatic processes conducted at moderate temperature might be beneficial due to their selectivity, so additives like inhibitors can be omitted with additional benefits of energy saving and better final quality and purity of the product. Selectivity of enzymes is a further advantage if there are several reactive functionalities (hydroxyls, amines, thiols) in the molecule of interest.",
+    "keywords": [
+      "temperature beneficial",
+      "selectivity enzymes",
+      "enzymes advantage",
+      "enzymatic processes",
+      "inhibitor",
+      "enzyme",
+      "enzymatic"
+    ]
+  },
+  {
+    "chunk_id": 107,
+    "text": "The key for transforming a biocatalyzed process in a robust and scalable industrial process was the engineering of CalB to produce a mutant able to accept unnatural substrates as acrylates, since the native CalB does not catalyze acrylation reactions with a yield high enough for industrial applications.",
+    "keywords": [
+      "catalyze acrylation",
+      "biocatalyzed process",
+      "biocatalyzed",
+      "acrylation reactions",
+      "transforming biocatalyzed"
+    ]
+  },
+  {
+    "chunk_id": 108,
+    "text": "The enzyme engineering performed by BASF was able to transform the process in a green and energy efficient technology.",
+    "keywords": [
+      "energy efficient",
+      "enzyme engineering",
+      "process green",
+      "enzyme",
+      "green energy"
+    ]
+  },
+  {
+    "chunk_id": 109,
+    "text": "The mutant CalB was immobilized by adsorption on polymeric resins such as polypropylene before being used in a biocatalytic process run in solvent free neat reagents (methacrylate and hydroxypropylcarbamate) at 40 °C obtaining 97% conversion in 6 h. In this case it is interesting to note that free enzyme, i.e. non-immobilized, was not active due to instability and inaccessibility to substrates.",
+    "keywords": [
+      "free enzyme",
+      "mutant calb",
+      "calb immobilized",
+      "biocatalytic",
+      "enzyme",
+      "used biocatalytic"
+    ]
+  },
+  {
+    "chunk_id": 110,
+    "text": "The biocatalytic process can produce mixtures or enantiomeric pure acrylates with good yields, as presented in Immobilized CalB has also found an interesting application in the industrial production of polymers as oleamides, used in plastics processing as slip and antiblocking agents.",
+    "keywords": [
+      "biocatalytic process",
+      "pure acrylates",
+      "biocatalytic",
+      "polymers oleamides",
+      "production polymers"
+    ]
+  },
+  {
+    "chunk_id": 111,
+    "text": "Synthesis of oleamide is normally performed by enzymatic amminolysis of triolein with ammonia catalyzed by CalB immobilized on polymeric beads (Novozym 435). Dow Corning, in collaboration with Prof. Gross, reported, for the first time, the production of polymers consisting of organosilicone esters or amides prepared by enzyme catalysis. Molecular Catalysis 479 110607 A. Basso and S. Serban 4.3.",
+    "keywords": [
+      "enzymatic amminolysis",
+      "prepared enzyme",
+      "amminolysis triolein",
+      "esters amides",
+      "enzyme",
+      "synthesis oleamide"
+    ]
+  },
+  {
+    "chunk_id": 112,
+    "text": "Lipase CalB for Dimethenamid-P In the vast range of herbicides, there is a group of selective herbicides that are active against the target plant species by enzyme inhibition of fatty acid biosynthesis.",
+    "keywords": [
+      "herbicides",
+      "lipase calb",
+      "range herbicides",
+      "enzyme",
+      "lipase",
+      "selective herbicides"
+    ]
+  },
+  {
+    "chunk_id": 113,
+    "text": "Within this group are a number of active compounds that possesses a common chemical structure, the aryloxy-substituted phenoxypropionate with a chiral center (\nIn fact, similar to pharmaceutical molecules, it was identified that a major part of the herbicidal activity resides in only one of the enantiomers.",
+    "keywords": [
+      "herbicidal activity",
+      "phenoxypropionate chiral",
+      "enantiomers",
+      "resides enantiomers",
+      "substituted phenoxypropionate"
+    ]
+  },
+  {
+    "chunk_id": 114,
+    "text": "In this case, the R-configuration at position 2 is the most active so there has been considerable effort from companies to develop cost-effective routes to manufacture single enantiomers. Using a single enantiomer instead of a racemate does not mean only reduced environmental impact but also reduced cost for producers and for the farmer.",
+    "keywords": [
+      "enantiomer instead",
+      "enantiomers using",
+      "single enantiomer",
+      "enantiomers",
+      "single enantiomers"
+    ]
+  },
+  {
+    "chunk_id": 115,
+    "text": "Biocatalysis proved to be an excellent tool to achieve such enantioselectivity. Metolachlor and dimethenamid were originally developed as a racemic mixtures. Following their discovery, it was identified that a major part of the herbicidal activity resides in only one of the enantiomers.",
+    "keywords": [
+      "biocatalysis proved",
+      "enantioselectivity metolachlor",
+      "enantioselectivity",
+      "achieve enantioselectivity",
+      "biocatalysis"
+    ]
+  },
+  {
+    "chunk_id": 116,
+    "text": "In the case of (S)-Metolachlor (\nDimethenamid was initially developed by Sandoz and the process was sold to BASF in 1996.",
+    "keywords": [
+      "metolachlor dimethenamid",
+      "metolachlor",
+      "sandoz process",
+      "case metolachlor",
+      "developed sandoz"
+    ]
+  },
+  {
+    "chunk_id": 117,
+    "text": "BASF then successfully developed the route to the single enantiomer Dimethenamid-P (\nThe reaction takes place using neat reagents without addition of organic solvent at 20–60 °C and achieves conversions of > 60% with (S)-amine ee > 99% using immobilized CalB (Novozym 435 or L2 from Chirazyme), whereas the unwanted (R)- amide is further recycled.",
+    "keywords": [
+      "organic solvent",
+      "single enantiomer",
+      "dimethenamid reaction",
+      "enantiomer",
+      "enantiomer dimethenamid"
+    ]
+  },
+  {
+    "chunk_id": 118,
+    "text": "The desired (S)- amine can be recovered from the unwanted (R)-amide and alcohol by-product by either extraction or distillation. The recovered (S) amine is further reacted to obtain the Dimethenamid-P. This process was further simplified by using immobilized lipase which can be easily separated in the process and used for further racemic resolution cycles.",
+    "keywords": [
+      "recovered amine",
+      "immobilized lipase",
+      "amide alcohol",
+      "desired amine",
+      "amine recovered"
+    ]
+  },
+  {
+    "chunk_id": 119,
+    "text": "The process was also refined allowing the reuse the unwanted enantiomer, in form of (R)-amide by BASF and others. Dimethenamid-P is part of the commercial product sold under the brand name of Outlook™ by BASF. The product is specifically used for the control of grasses and small-seeded broadleaf weeds such as water hemp, pigweed and nightshade.",
+    "keywords": [
+      "basf dimethenamid",
+      "enantiomer form",
+      "enantiomer",
+      "dimethenamid commercial",
+      "unwanted enantiomer"
+    ]
+  },
+  {
+    "chunk_id": 120,
+    "text": "Lipase CalB for myristyl myristate The growing trend for natural ingredients and environmentally-responsible processes in the cosmetics market has encouraged manufacturers to find new greener and cleaner manufacturing methods.",
+    "keywords": [
+      "calb myristyl",
+      "lipase calb",
+      "processes cosmetics",
+      "myristyl",
+      "lipase",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 121,
+    "text": "Specialty esters such as ceramides and emollient esters for cosmetic formulations were manufactured using strong acid catalysts at high temperatures, with undesired by-products removable by energy-intensive purifications. Other methods of producing cosmetic esters require organic solvents that are potentially hazardous to workers and the environment.",
+    "keywords": [
+      "specialty esters",
+      "formulation",
+      "emollient esters",
+      "cosmetic esters",
+      "esters cosmetic",
+      "esters require"
+    ]
+  },
+  {
+    "chunk_id": 122,
+    "text": "In early 2000, several companies, such as Evonik and Eastman Chemical Company, began investigating the use of immobilized CalB as catalysts to produce cosmetic esters at mild temperature.",
+    "keywords": [
+      "immobilized calb",
+      "calb catalysts",
+      "use immobilized",
+      "cosmetic esters",
+      "catalysts produce"
+    ]
+  },
+  {
+    "chunk_id": 123,
+    "text": "The biocatalytic process is driven to high conversion by continuous removal of the water produced during the esterification (\nIn order to improve the stability of the immobilized CalB, a silicone coating was performed on the biocatalysts.",
+    "keywords": [
+      "biocatalytic process",
+      "biocatalytic",
+      "produced esterification",
+      "coating",
+      "performed biocatalysts",
+      "biocatalysts"
+    ]
+  },
+  {
+    "chunk_id": 124,
+    "text": "This enabled an increase in the half-life time of the biocatalyst from 1 day to 23 days and subsequently significantly increased the productivity from 100 gproduct/gimm CalB[to][2300 g] product[/g] imm CalB[.]",
+    "keywords": [
+      "biocatalyst day",
+      "gproduct gimm",
+      "biocatalyst",
+      "gimm calb",
+      "time biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 125,
+    "text": "The low temperature (60 °C) used during processing conditions and the CalB specificity do not lead to the formation of undesirable byproducts that usually contribute to color or odor in final emollient Molecular Catalysis 479 110607 A. Basso and S. Serban to the biocatalyst.",
+    "keywords": [
+      "catalysis",
+      "catalysis 479",
+      "serban biocatalyst",
+      "molecular catalysis",
+      "biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 126,
+    "text": "During the process life cycle assessment performed by Evonik, it was demonstrated that energy consumption was reduced by more than 60%, and emissions of different pollutants was reduced by 60% - 90%. Emissions of greenhouse gases were reduced from 1518 to 582 kg CO2equivalents when making 5 tons of esters - a reduction of 62%.",
+    "keywords": [
+      "pollutants reduced",
+      "emissions different",
+      "60 emissions",
+      "emissions",
+      "emissions greenhouse"
+    ]
+  },
+  {
+    "chunk_id": 127,
+    "text": "Significant reductions were also measured in sulphur dioxide (acidification potential), phosphates (nutrient enrichment potential) and volatile organic compounds (smog formation potential), all due to the very mild biocatalyzed reaction conditions. About 50 different emollient esters are now available on the market and Evonik manufactures 4 of them by utilizing immobilized enzymes, as shown in.",
+    "keywords": [
+      "mild biocatalyzed",
+      "immobilized enzymes",
+      "esters available",
+      "enzyme",
+      "emollient esters",
+      "biocatalyzed",
+      "phosphate"
+    ]
+  },
+  {
+    "chunk_id": 128,
+    "text": "As a recognition of the great impact of this green route, in 2009 Eastman Chemical Company was recognized during the Presidential Green Chemistry Challenge of the Greener Synthetic Pathways Awards for the manufacture of emollient esters such as 2-ethylhexylpalmitate by using immobilized CalB.",
+    "keywords": [
+      "green chemistry",
+      "esters ethylhexylpalmitate",
+      "pathway",
+      "ethylhexylpalmitate",
+      "greener synthetic",
+      "ethylhexylpalmitate using"
+    ]
+  },
+  {
+    "chunk_id": 129,
+    "text": "Aminoacylase for L-aminoacids An early industrial application of an immobilized enzyme was the use of the aminoacylase from Aspergillus oryzae (EC 3.5.1.14) to resolve racemic mixtures of amino acids.",
+    "keywords": [
+      "aminoacylase aspergillus",
+      "aminoacylase aminoacids",
+      "amino acids",
+      "enzyme",
+      "use aminoacylase",
+      "aminoacylase"
+    ]
+  },
+  {
+    "chunk_id": 130,
+    "text": "The immobilized enzyme is integrated into a fixed-bed reactor with a circulation loop, through which the reaction charge is pumped long enough to reach the complete conversion, thus ensuring long life Chemically synthesized racemic N-acyl-DL-amino acids are hydrolyzed at pH 8.5 to produce free L-amino acids plus the non-hydrolyzed N-acyl-D-amino acids (\nThe enzyme is immobilized by adsorption onto anion exchange resins (e.g.",
+    "keywords": [
+      "enzyme integrated",
+      "acids enzyme",
+      "immobilized enzyme",
+      "enzyme immobilized",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 131,
+    "text": "DEAE-Sephadex) and has an operational half-life of about 65 days at 50 °C in aqueous media. The immobilized enzyme may be re-activated in situ by simply adding more enzyme. The immobilized enzyme has proved to be more efficient than the use of free enzyme mainly due to the more efficient use of the substrate also due to reductions in the cost of enzyme and labor.",
+    "keywords": [
+      "free enzyme",
+      "immobilized enzyme",
+      "enzyme immobilized",
+      "enzyme",
+      "enzyme activated"
+    ]
+  },
+  {
+    "chunk_id": 132,
+    "text": "This aminoacylase from Aspergillus oryzae has versatile substrate specificity and several L-amino acids can be produced using this method, such as: L-methionine, L- phenylalanine, L-tryptophan, L-valine, etc..",
+    "keywords": [
+      "aminoacylase aspergillus",
+      "amino acids",
+      "aspergillus oryzae",
+      "amino",
+      "aminoacylase"
+    ]
+  },
+  {
+    "chunk_id": 133,
+    "text": "This biocatalytic process was implemented at industrial scale in early 1970’s at Tanabe Seiyaku Co. Ltd. for the production of many L-amino acids and it is considered perhaps the first example of industrial biocatalytic process using immobilized enzyme. The L-amino acids produced via this process were utilized as building blocks in the chemical industry but also in the food industry.",
+    "keywords": [
+      "biocatalytic process",
+      "immobilized enzyme",
+      "biocatalytic",
+      "industrial biocatalytic",
+      "enzyme",
+      "production amino"
+    ]
+  },
+  {
+    "chunk_id": 134,
+    "text": "Immobilized enzymes in the pharmaceutical industry Biocatalysis and its advantages, such as selectivity, safety and sustainability in industrial processes, recently became a very appealing technology for the pharmaceutical industry.",
+    "keywords": [
+      "safety",
+      "enzymes pharmaceutical",
+      "immobilized enzymes",
+      "industry biocatalysis",
+      "biocatalysis",
+      "enzyme",
+      "biocatalysis advantages"
+    ]
+  },
+  {
+    "chunk_id": 135,
+    "text": "Through protein engineering, it was shown that unnatural molecules could be used as substrates for enzymes operating in organic solvents and producing high yielding chemo-, regio-, and enantioselective compounds.",
+    "keywords": [
+      "enzymes operating",
+      "unnatural molecules",
+      "organic solvents",
+      "enzyme",
+      "substrates enzymes",
+      "protein engineering"
+    ]
+  },
+  {
+    "chunk_id": 136,
+    "text": "The production of such high-value molecules by traditional chemical synthesis would present real challenges, hence the important investments made by the pharmaceutical industry into high speed Molecular Catalysis 479 110607 A. Basso and S. Serban 5.2. Lipase CalB for Sofosbuvir throughput protein engineering in order to produce enzymes capable of meeting industry requirements.",
+    "keywords": [
+      "lipase calb",
+      "produce enzymes",
+      "molecular catalysis",
+      "enzyme",
+      "lipase",
+      "protein engineering"
+    ]
+  },
+  {
+    "chunk_id": 137,
+    "text": "In and the following paragraphs we present important achievements in the use of immobilized enzymes to produce chiral molecules of pharmaceutical interest. Hepatitis C is an infectious disease caused by Hepatitis C virus (HCV), a member of the hepacivirus genera within the Flaviviridae family. Hepatitis C is the leading cause of chronic liver disease worldwide.",
+    "keywords": [
+      "hepatitis virus",
+      "produce chiral",
+      "pharmaceutical hepatitis",
+      "immobilized enzymes",
+      "enzyme",
+      "virus hcv"
+    ]
+  },
+  {
+    "chunk_id": 138,
+    "text": "The infection is often asymptomatic, but its chronic infection can lead to the scarring of the liver and finally, to cirrhosis, which is generally apparent after many years. In some cases, liver cirrhosis can develop into liver failure, cancer, oesophageal and gastric varices. HCV is transmitted primarily by direct contact with infected blood.",
+    "keywords": [
+      "cirrhosis develop",
+      "cirrhosis generally",
+      "hcv transmitted",
+      "develop liver",
+      "liver cirrhosis"
+    ]
+  },
+  {
+    "chunk_id": 139,
+    "text": "Lipase CalB for Odanacatib Lipases, in general, and lipase B from Candida antarctica (CalB) (EC 3.1.1.3) in particular, are commonly used catalysts for the production of cosmetic additives for personal care, active pharmaceutical ingredients and food ingredients due to their high regio-, chemo- and enantioselectivity.",
+    "keywords": [
+      "lipases general",
+      "lipase calb",
+      "lipases",
+      "odanacatib lipases",
+      "lipase"
+    ]
+  },
+  {
+    "chunk_id": 140,
+    "text": "Hence, the interest in developing improved methods of treating hepatitis C that can overcome the high mutagenicity of HCV and the presence of different genotypes and subtypes. In 2014, Gilead patented a new compound that inhibits the hepatitis C virus NS3 protease, which has the great advantage of inhibiting multiple genotypes of the hepatitis C virus.",
+    "keywords": [
+      "treating hepatitis",
+      "hepatitis virus",
+      "gilead patented",
+      "inhibits hepatitis",
+      "mutagenicity hcv"
+    ]
+  },
+  {
+    "chunk_id": 141,
+    "text": "The compound, commercialized as Sofosbuvir, reported also by Sandoz with a new crystalline formulation, is used for the treatment of HCV infection and the related symptoms (\nIn its immobilized form, CalB finds numerous applications in industrial processes due to its broad selectivity and high tolerance to organic solvents and temperature.",
+    "keywords": [
+      "hcv",
+      "sofosbuvir",
+      "formulation",
+      "sofosbuvir reported",
+      "commercialized sofosbuvir",
+      "treatment hcv"
+    ]
+  },
+  {
+    "chunk_id": 142,
+    "text": "Many of these industrial applications are presented in this paper. One noteworthy API produced by biocatalysis, is the manufacture of Odanacatib using immobilized CalB, introduced by Merck in 2011. Odanacatib is a potent cathepsin K inhibitor that was discovered in 2008 and subsequently evaluated for treatment of osteoporosis in post-menopausal women, now discontinued.",
+    "keywords": [
+      "treatment osteoporosis",
+      "manufacture odanacatib",
+      "odanacatib potent",
+      "odanacatib using",
+      "inhibitor",
+      "biocatalysis manufacture"
+    ]
+  },
+  {
+    "chunk_id": 143,
+    "text": "Sofosbuvir is a large molecule with a synthesis that requires many chemical steps, and immobilized CalB is used in the patent from Gilead in the process for the enantioselective hydrolysis of an acetate ester into chiral alcohol.",
+    "keywords": [
+      "sofosbuvir",
+      "sofosbuvir large",
+      "immobilized calb",
+      "calb used",
+      "calb"
+    ]
+  },
+  {
+    "chunk_id": 144,
+    "text": "The CalB immobilized on a divinyl benzene / methacrylate polymer (Novozym 435) was used in MTBE saturated with aqueous 0.1 M phosphate buffer pH 7 at a temperature of 10 °C; the conversion of the racemate to the desired enantiomer is almost 40% (\nIn the process reported by Merck, the key step is the complete ring opening by ethanolysis of azlactone.",
+    "keywords": [
+      "ethanolysis azlactone",
+      "immobilized divinyl",
+      "desired enantiomer",
+      "calb immobilized",
+      "aqueous phosphate",
+      "phosphate"
+    ]
+  },
+  {
+    "chunk_id": 145,
+    "text": "The reaction catalyzed by immobilized CalB gives 95% conversion of the desired (S)-γ-fluoroleucine ethyl ester (\nIn 2014, Chemelectiva-HC-Pharma reported another biocatalytic process to manufacture an intermediate of sofosbuvir. The process involves also the use of immobilized lipase CalB but the catalyzed reaction interestingly is on a different position of the molecule.",
+    "keywords": [
+      "catalyzed immobilized",
+      "biocatalytic",
+      "calb catalyzed",
+      "reported biocatalytic",
+      "sofosbuvir process"
+    ]
+  },
+  {
+    "chunk_id": 146,
+    "text": "In fact, immobilized CalB is used for a regioselective mono-deacetylation of sofosbuvir intermediate in polar protic organic solvent to give the corresponding alcohol at 60 °C (\nThe key to success for the process was the use of a different carrier than the one that is normally employed for CalB immobilization, which enabled a 99.9% reduction in cost when compared to using the commercially available Novozym 435 (CalB immobilized on a divinylbenzene/methacrylate carrier).",
+    "keywords": [
+      "immobilized calb",
+      "calb immobilization",
+      "immobilized divinylbenzene",
+      "deacetylation sofosbuvir",
+      "calb immobilized"
+    ]
+  },
+  {
+    "chunk_id": 147,
+    "text": "In fact, when immobilizing CalB on an octadecyl functionalized methacrylate resin, the stability and activity was significantly increased compared to the commercially available preparation Novozym 435 and this was attributed to the optimal interaction of the hydrophobic octadecyl groups with lipases, as reported by Purolite.",
+    "keywords": [
+      "functionalized methacrylate",
+      "hydrophobic octadecyl",
+      "immobilizing calb",
+      "octadecyl functionalized",
+      "calb octadecyl"
+    ]
+  },
+  {
+    "chunk_id": 148,
+    "text": "Interesting to note is that the octadecyl functionalized carrier also shows good performance in the immobilization of transaminase, as reported by Merck. Penicillin G amidase for β-lactam antibiotics Over time, many discoveries in science have been fortuitous and penicillin is a very good example.",
+    "keywords": [
+      "transaminase",
+      "immobilization transaminase",
+      "penicillin",
+      "penicillin amidase",
+      "penicillin good"
+    ]
+  },
+  {
+    "chunk_id": 149,
+    "text": "In 1928, Alexander Fleming discovered that some fungi, such as Penicillium notatum, were able to produce a beriolytic substance that was able to inhibit the growth of staphylococci.",
+    "keywords": [
+      "penicillium notatum",
+      "fleming discovered",
+      "growth staphylococci",
+      "discovered fungi",
+      "fungi penicillium"
+    ]
+  },
+  {
+    "chunk_id": 150,
+    "text": "However, more than a decade passed Molecular Catalysis 479 110607 A. Basso and S. Serban afterFleming's discovery before Florey and Chain, in 1940, finally isolated penicillin G (6-aminopenicillanic acid, 6-APA) After 20 years of clinical use, the penicillin G was phased out in the late 1960s due to increasing microbial resistance, but the acylation of 6- APA with various side-chains, afforded new active semi-synthetic penicillins.",
+    "keywords": [
+      "clinical",
+      "penicillin aminopenicillanic",
+      "penicillin",
+      "synthetic penicillins",
+      "penicillin phased",
+      "isolated penicillin"
+    ]
+  },
+  {
+    "chunk_id": 151,
+    "text": "The introduction of semi-synthetic β-lactam antibiotics transformed the 6-aminopenicillanic acid (6-APA) into a major pharmaceutical intermediate. The most important examples are ampicillin and amoxicillin (\nIn 1960, the discovery of penicillin G acylase (penicillin amidohydrolase EC 3.5.1.11) was reported independently by four industrial research groups.",
+    "keywords": [
+      "acylase penicillin",
+      "penicillin amidohydrolase",
+      "discovery penicillin",
+      "lactam antibiotics",
+      "penicillin acylase"
+    ]
+  },
+  {
+    "chunk_id": 152,
+    "text": "The newly-discovered serine hydrolase penicillin G acylase was initially employed as an industrial catalyst for the manufacture of 6-APA from penicillin G and the traditional chemical procedures were gradually being replaced by bio-transformations. Over the years, penicillin G acylase variants with improved stability were obtained by screening and by employing recombinant DNA technology.",
+    "keywords": [
+      "hydrolase penicillin",
+      "serine hydrolase",
+      "apa penicillin",
+      "acylase variants",
+      "penicillin acylase"
+    ]
+  },
+  {
+    "chunk_id": 153,
+    "text": "These new enzymes, combined with efficient immobilization methods, made the recycling of the biocatalyst possible, generating a more efficient production of β-lactams and dramatic reductions in enzyme costs.",
+    "keywords": [
+      "new enzymes",
+      "production lactams",
+      "biocatalyst possible",
+      "recycling biocatalyst",
+      "enzyme",
+      "biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 154,
+    "text": "Nowadays, the industrial production of β-lactam antibiotics occurs using two different penicillin G acylases, one designed for the hydrolysis of benzylpenicillin (HydPGA) to give the β-lactam nucleus 6-APA and one designed for the synthesis (SynPGA) of semi-synthetic β-lactams as ampicillin or amoxicillin (\nThe enzymatic cleavage of penicillin G to 6-APA is run efficiently in batch mode reactors in water with robust immobilized penicillin G acylase mainly on hydrophilic resins such as epoxy methacrylate resins; the biocatalyst can be recycled up to 1000 cycles.",
+    "keywords": [
+      "amoxicillin enzymatic",
+      "lactams ampicillin",
+      "synthetic lactams",
+      "lactam antibiotics",
+      "production lactam"
+    ]
+  },
+  {
+    "chunk_id": 155,
+    "text": "Even if the hydrolysis of benzylpenicillin is a well-established process, the synthesis of β-lactam antibiotics using immobilized SynPGA can still be a challenge. The enzymatic synthesis of β-lactam antibiotics can, in principle, be accomplished either via thermodynamically controlled reversal of the hydrolytic reaction or via kinetically controlled transacylation in water.",
+    "keywords": [
+      "enzymatic synthesis",
+      "hydrolysis benzylpenicillin",
+      "benzylpenicillin",
+      "synthesis lactam",
+      "lactam antibiotics"
+    ]
+  },
+  {
+    "chunk_id": 156,
+    "text": "The main obstacle of the kinetically controlled synthesis of betalactams using immobilized SynPGA (the currently used industrial process), is the possible hydrolysis of the sidechain donor (phenylglycine or 4-hydroxyphenylglycine) as well as of the product.",
+    "keywords": [
+      "synthesis betalactams",
+      "betalactams using",
+      "hydrolysis sidechain",
+      "betalactams",
+      "immobilized synpga"
+    ]
+  },
+  {
+    "chunk_id": 157,
+    "text": "To avoid such unwanted reactions, the process is carried out in an excess of the sidechain donor making the downstream treatment more laborious. The synthesis/hydrolysis ratio (S/H, mol product per mol hydrolyzed side-chain donor formed) is often used as an indicator of the viability of the process.",
+    "keywords": [
+      "hydrolysis ratio",
+      "mol hydrolyzed",
+      "synthesis hydrolysis",
+      "hydrolyzed chain",
+      "hydrolysis"
+    ]
+  },
+  {
+    "chunk_id": 158,
+    "text": "The intrinsic acyl transfer efficiency (S/ H) of the biocatalytic process using immobilized SynPGA has been overcome thanks to the improvement of SynPGA and now ampicillin and amoxicillin are being manufactured in batch mode in aqueous solution with approximately 500 cycles biocatalyst reuse.",
+    "keywords": [
+      "biocatalytic process",
+      "biocatalyst reuse",
+      "efficiency biocatalytic",
+      "biocatalytic",
+      "biocatalyst"
+    ]
+  },
+  {
+    "chunk_id": 159,
+    "text": "Transaminase for sitagliptin The immobilization of transaminases (EC 2.6.1) for the industrial production of APIs represents the first successful industrial example of using other enzyme than the hydrolases series.",
+    "keywords": [
+      "transaminase sitagliptin",
+      "sitagliptin",
+      "transaminase",
+      "sitagliptin immobilization",
+      "immobilization transaminases",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 160,
+    "text": "The initial enzyme development using a combination of modelling and directed evolution led to an active and stable R-selective amine transaminase for the synthesis of sitagliptin, a key blockbuster from Merck for treatment of diabetes Molecular Catalysis 479 110607 A. Basso and S. Serban Main industrial applications using immobilized enzymes for the manufacture of different APIs using immobilized hydrolases and transferases.",
+    "keywords": [
+      "diabetes",
+      "enzymes manufacture",
+      "immobilized enzymes",
+      "sitagliptin",
+      "transaminase synthesis",
+      "enzyme",
+      "synthesis sitagliptin",
+      "amine transaminase"
+    ]
+  },
+  {
+    "chunk_id": 161,
+    "text": "> a A: liquid phase is formed by organic solvents. B: liquid phase is formed by water or aqueous buffers.. The use of organic solvents is necessary to increase the poor solubility of sitagliptin and its derivatives therefore the use of a non-immobilized transaminase limits the choice to water and miscible solvents such as dimethyl sulfoxide (DMSO), making the downstream processing difficult.",
+    "keywords": [
+      "solvents liquid",
+      "solubility sitagliptin",
+      "liquid phase",
+      "solvents",
+      "sitagliptin",
+      "solvents necessary"
+    ]
+  },
+  {
+    "chunk_id": 162,
+    "text": "On the contrary, using immobilized transaminase (immobilized by adsorption on a functionalized octadecyl methacrylate) opens the possibility to use neat organic solvents and recycle the immobilized transaminase without loss of enzyme activity. Merck reported conversions > 80% in isopropylacetate with very high substrate concentration (200 g/L of ketoamide and 80 mL/L isopropylamine) at 60 °C.",
+    "keywords": [
+      "immobilized transaminase",
+      "transaminase",
+      "transaminase immobilized",
+      "using immobilized",
+      "transaminase loss",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 163,
+    "text": "This is an excellent example of the success of a combined approach enzyme engineering and process optimisation using immobilized enzymes: this approach was able to replace a chemical process based on hydrogenation of enamine at high pressure with a biocatalyzed process able to give 99.5% enantiomeric excess and able to convert very high concentrations (up to 200 g/l) of prositagliptin in the final product, using an immobilized enzyme in the presence of DMSO as a cosolvent.",
+    "keywords": [
+      "immobilized enzymes",
+      "sitagliptin",
+      "immobilized enzyme",
+      "enzyme engineering",
+      "enzyme",
+      "approach enzyme",
+      "biocatalyzed process"
+    ]
+  },
+  {
+    "chunk_id": 164,
+    "text": "The previous existing asymmetric hydrogenation of an enamine at high pressure (250 psi, 17 bar) using a rhodium -based chiral catalyst was in fact giving ee of only 97% (\nThe great novelty of the process lies in the engineering of a transaminase that was lacking activity towards prositagliptin.",
+    "keywords": [
+      "asymmetric hydrogenation",
+      "hydrogenation enamine",
+      "sitagliptin",
+      "chiral catalyst",
+      "hydrogenation",
+      "enamine"
+    ]
+  },
+  {
+    "chunk_id": 165,
+    "text": "Thanks to a rational engineering of the enzyme performed by the team Codexis- Molecular Catalysis 479 110607 A. Basso and S. Serban more specialized and sophisticated usage, such as the removal of urea from blood for extracorporeal detoxification or in the dialysate regeneration system for artificial kidneys.",
+    "keywords": [
+      "engineering enzyme",
+      "enzyme performed",
+      "codexis molecular",
+      "artificial kidneys",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 166,
+    "text": "Urea is a major metabolic end product and its removal has been a major problem for patients suffering from renal failure. Immobilized urease can be used in the dialysis system of an artificial kidney machine to remove the urea. The introduction of immobilized urease allowed for the small, portable dialysis machines based on sorbent regenerative dialysis systems to be manufactured.",
+    "keywords": [
+      "immobilized urease",
+      "dialysis systems",
+      "renal",
+      "dialysis artificial",
+      "portable dialysis",
+      "artificial kidney"
+    ]
+  },
+  {
+    "chunk_id": 167,
+    "text": "Several varying approaches have been tried in the past for urea removal, and there is currently renewed interest in a number of new alternative approaches.",
+    "keywords": [
+      "urea removal",
+      "urea",
+      "removal",
+      "removal currently",
+      "past urea"
+    ]
+  },
+  {
+    "chunk_id": 168,
+    "text": "Looking at the urease-cation exchanger approach, there are several technologies that can be mentioned: the sorb system which is a conventional divalent-selective cation exchanger employed by Sorb, Renal Solutions Inc., Fresenius Medical Care, the zeolite monovalent-selective cation exchanger, the Zirconium silicate: crystalline monovalent- selective cation exchanger, a resin-based system is used by Baxter.",
+    "keywords": [
+      "sorb renal",
+      "renal solutions",
+      "renal",
+      "urease cation",
+      "cation exchanger",
+      "exchanger resin"
+    ]
+  },
+  {
+    "chunk_id": 169,
+    "text": "Other approaches, such as at Exxon, are using urease and liquid membrane acid-filled microcapsules. Merck, the final mutant enzyme was able to not only perform the desired reaction with high yields, but also to tolerate high denaturing solvent concentration, to work in extremely high concentrations and to be immobilized for recycling purposes.",
+    "keywords": [
+      "filled microcapsules",
+      "mutant enzyme",
+      "merck",
+      "enzyme",
+      "microcapsules merck",
+      "microcapsules"
+    ]
+  },
+  {
+    "chunk_id": 170,
+    "text": "The great achievement is also in the use of a different enzyme than hydrolases that are normally used in industrial applications. Of all the historical efforts, the only practical device using urease that has emerged for clinical use has been based on the sorbent column.",
+    "keywords": [
+      "using urease",
+      "hydrolases normally",
+      "clinical",
+      "enzyme",
+      "hydrolases",
+      "enzyme hydrolases"
+    ]
+  },
+  {
+    "chunk_id": 171,
+    "text": "Portable dialysis systems, such as the REDY, Allient or AWAK sorbent systems, employed a urease to convert urea, which (unlike other metabolic wastes such as creatinine and uric acid) is not readily adsorbed by activated carbon, into ammonium ions and bicarbonate ions.",
+    "keywords": [
+      "dialysis",
+      "dialysis systems",
+      "uric acid",
+      "convert urea",
+      "portable dialysis"
+    ]
+  },
+  {
+    "chunk_id": 172,
+    "text": "Immobilized enzymes in medical devices and biosensors Commercially, such dialysis devices using immobilized urease were available in 1980 but their production stopped in 1990. Since 2000, although mainly developmental, such systems emerged again as viable technological alternative and much interest is taken by companies, AWAK system being an example of such commercially available technology.",
+    "keywords": [
+      "dialysis devices",
+      "immobilized urease",
+      "immobilized enzymes",
+      "using immobilized",
+      "enzyme",
+      "commercially dialysis"
+    ]
+  },
+  {
+    "chunk_id": 173,
+    "text": "Lipases in medical devices In patients with cystic fibrosis and exocrine pancreatic insufficiency, fat malabsorption can lead to decreased caloric intake and deficiencies of fatty acids (FA), such as docosahexaenoic acid (DHA), and eicosapentaenoic acid (EPA), which are important for growth and development.",
+    "keywords": [
+      "fatty acids",
+      "lipases medical",
+      "lipases",
+      "fat malabsorption",
+      "deficiencies fatty",
+      "absorption"
+    ]
+  },
+  {
+    "chunk_id": 174,
+    "text": "Patients with cystic fibrosis use pancreatic enzyme replacement therapy in conjunction with meals to increase the absorption of fat and other nutrients. Thousands of cystic fibrosis patients in USA use enteral nutrition that allows them to meet growth and weight goals. However, formulas available contain triglycerides rather than fatty acids due to the poor stability of hydrolyzed fats.",
+    "keywords": [
+      "cystic fibrosis",
+      "pancreatic enzyme",
+      "fat nutrients",
+      "enzyme",
+      "nutrition allows",
+      "absorption",
+      "use pancreatic"
+    ]
+  },
+  {
+    "chunk_id": 175,
+    "text": "Enzymes in biosensors Enzyme-based biosensors represent a major application of immobilized enzymes, not only in medicine and clinical diagnostics but also in food, food safety, agricultural industries as well as environmental monitoring.",
+    "keywords": [
+      "safety",
+      "enzymes biosensors",
+      "enzyme based",
+      "immobilized enzymes",
+      "clinical",
+      "biosensors enzyme",
+      "enzymes",
+      "enzyme"
+    ]
+  },
+  {
+    "chunk_id": 176,
+    "text": "Alcresta Therapeutics, in collaboration with ChiralVision, has developed a single-use cylindrical cartridge with a chamber closed by frits containing digestive immobilized enzyme that connects in-line with the enteral feeding set.",
+    "keywords": [
+      "enteral feeding",
+      "alcresta therapeutics",
+      "therapeutic",
+      "alcresta",
+      "chiralvision developed",
+      "enzyme",
+      "digestive immobilized"
+    ]
+  },
+  {
+    "chunk_id": 177,
+    "text": "The cartridge contains covalently immobilized lipase on a methacrylic polymer (EC 3.1.1.3, from Chromobacterium viscosum, Pseudomonas fluorescens, Burkholderia cepacia, or Rhizopus oryzae) on polymeric beads that hydrolyses up to 90% of the fats in the enteral formula as it is passed through the cartridge.",
+    "keywords": [
+      "lipase methacrylic",
+      "immobilized lipase",
+      "cartridge",
+      "lipase",
+      "cartridge contains"
+    ]
+  },
+  {
+    "chunk_id": 178,
+    "text": "The device increases life expectancy of the patients since it helps to improve fat absorption, consequently improving cognitive ability, and improving chronic lung disease, with a reduced length of time required for parenteral nutrition.",
+    "keywords": [
+      "absorption",
+      "required parenteral",
+      "parenteral nutrition",
+      "increases life",
+      "parenteral",
+      "improving chronic"
+    ]
+  },
+  {
+    "chunk_id": 179,
+    "text": "Such applications of immobilized enzymes deserve a book of their own, so we shall highlight, very briefly, some important points about enzymatic biosensors based on immobilized enzymes. Depending on the assay type, two fundamental classes of enzymatic biosensors can be distinguished. In the first group, the enzyme detects the presence of a substrate, or co-substrate / co-factor.",
+    "keywords": [
+      "biosensors distinguished",
+      "immobilized enzymes",
+      "enzymatic biosensors",
+      "biosensors based",
+      "assay",
+      "enzyme",
+      "enzyme detects"
+    ]
+  },
+  {
+    "chunk_id": 180,
+    "text": "A typical example is a glucose biosensor used for blood glucose monitoring in people affected by diabetes and produced at large scale by companies such as: LifeScan, Abbott, Roche Diagnostics, etc. The glucose strip used in diabetes monitoring is estimated to reach in 2020 a global market of $18.5 billion.",
+    "keywords": [
+      "diabetes",
+      "biosensor used",
+      "glucose biosensor",
+      "diabetes monitoring",
+      "glucose strip",
+      "glucose",
+      "glucose monitoring"
+    ]
+  },
+  {
+    "chunk_id": 181,
+    "text": "The second group is based on the detection of enzyme inhibitors in the presence of a substrate. The most common example of this approach is the detection of organophosphate compounds used as pesticides or warfare nerve agents. Urease in medical devices Urease (EC 3.5.1.5) is a highly specific enzyme that catalyzes the hydrolysis of urea to ammonium and carbon dioxide.",
+    "keywords": [
+      "enzyme inhibitors",
+      "hydrolysis urea",
+      "phosphate",
+      "inhibitor",
+      "enzyme",
+      "detection enzyme",
+      "specific enzyme"
+    ]
+  },
+  {
+    "chunk_id": 182,
+    "text": "The major advantage of these approaches is the high sensitivity and specificity of catalytically active enzymes towards their target molecules.",
+    "keywords": [
+      "specificity catalytically",
+      "active enzymes",
+      "enzymes",
+      "enzymes target",
+      "enzyme",
+      "catalytically active"
+    ]
+  },
+  {
+    "chunk_id": 183,
+    "text": "Applications of the urease are various, ranging from the hydrolysis and removal of urea in waste water effluents, beverages and foods, to While the transducers used for enzymatic biosensors vary widely Molecular Catalysis 479 110607 A. Basso and S. Serban based on the detection technique, operating principle, construction, size etc., the electrochemical transducers are playing the most important role in medicine and clinical diagnostics.",
+    "keywords": [
+      "biosensors vary",
+      "enzymatic biosensors",
+      "clinical",
+      "electrochemical transducers",
+      "biosensors",
+      "transducers used"
+    ]
+  },
+  {
+    "chunk_id": 184,
+    "text": "The discovery and development of new enzymes, combined with the development of new performant materials for the transducer, as well as important advances in detection techniques, are continuously transforming the enzymatic biosensor landscape offering new opportunities for practical applications of such devices. Insulin resistance is actively treated with metformin.",
+    "keywords": [
+      "enzymatic biosensor",
+      "new enzymes",
+      "devices insulin",
+      "insulin",
+      "enzyme",
+      "insulin resistance",
+      "biosensor",
+      "metformin"
+    ]
+  },
+  {
+    "chunk_id": 185,
+    "text": "Sitagliptin improves insulin sensitivity and is essential for managing type 2 diabetes. Glucose can treat diabetes alone if there are no safety concerns, such as renal or liver disease, gastrointestinal difficulties, or lactic acidosis. Metformin is safe and effective. Metformin is the only oral diabetes medicine that does not cause weight gain.",
+    "keywords": [
+      "diabetes",
+      "glucose treat",
+      "safety",
+      "treat diabetes",
+      "sitagliptin",
+      "renal",
+      "diabetes medicine",
+      "insulin",
+      "sitagliptin improves",
+      "glucose",
+      "improves insulin",
+      "metformin"
+    ]
+  },
+  {
+    "chunk_id": 186,
+    "text": "Additionally, many diabetics only take this medicine. Treatment for type 2 diabetes usually begins with metformin and sitagliptin. This helps manage blood glucose when diet and exercise fail. When administered alone, sitagliptin plus metformin may not regulate blood glucose well. This aims to manufacture film-coated metformin phosphate monohydrate and hydrochloride tablets in various dosages.",
+    "keywords": [
+      "diabetes",
+      "metformin sitagliptin",
+      "sitagliptin",
+      "metformin regulate",
+      "monohydrate",
+      "metformin phosphate",
+      "glucose",
+      "tablet",
+      "phosphate",
+      "diabetics medicine",
+      "administered sitagliptin",
+      "metformin"
+    ]
+  },
+  {
+    "chunk_id": 187,
+    "text": "The study on sitagliptin-metformin seeks to create a fixed dose pharmaceutical combination for non-insulin-dependent diabetic mellitus. Metformin HCl with Sitagliptin may improve blood glucose management and HbA1c levels. The sitagliptin-metformin combination causes minimal weight gain and fewer adverse effects.",
+    "keywords": [
+      "metformin hcl",
+      "study sitagliptin",
+      "sitagliptin",
+      "HbA1c",
+      "sitagliptin metformin",
+      "hcl sitagliptin",
+      "insulin",
+      "glucose",
+      "levels sitagliptin",
+      "metformin"
+    ]
+  },
+  {
+    "chunk_id": 188,
+    "text": "The study on sitagliptin-metformin created and tested sitagliptin-metformin HCl film coated tablets. Wet granulation was used to make the tablets with the requisite excipients. The tablet's parameters before and after compression were evaluated according to the standard. The pre-compression factors, including overall and tapped density, showed good flow characteristics.",
+    "keywords": [
+      "excipient",
+      "tested sitagliptin",
+      "metformin hcl",
+      "study sitagliptin",
+      "coated tablets",
+      "granulation",
+      "compression",
+      "sitagliptin",
+      "sitagliptin metformin",
+      "tablet",
+      "metformin"
+    ]
+  },
+  {
+    "chunk_id": 189,
+    "text": "The weight, hardness, thickness, friability, disintegration, drug concentration, and drug release % were assessed after compression.",
+    "keywords": [
+      "weight hardness",
+      "compression",
+      "hardness thickness",
+      "assessed compression",
+      "drug",
+      "friability",
+      "disintegration",
+      "drug release",
+      "hardness"
+    ]
+  },
+  {
+    "chunk_id": 190,
+    "text": "Keywords: diabetic cardiomyopathy, DPP-4 inhibitors, JAK/STAT, oxidative stress, inflammation Introduction correspondence: ayman M Mahmoud Physiology Division, Department of Zoology, Faculty of science, Beni-suef University, salah salim st, 62514 Beni-suef, egypt Tel + 20 11 4416 8280 email edu.eg Cardiovascular complications represent the main cause of hospitalization and death in diabetic patients.",
+    "keywords": [
+      "cardiomyopathy",
+      "diabetic patients",
+      "stress",
+      "cardiomyopathy dpp",
+      "keywords diabetic",
+      "death diabetic",
+      "inhibitor",
+      "diabetic cardiomyopathy",
+      "DPP-4",
+      "oxidative",
+      "inflammation",
+      "JAK",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 191,
+    "text": "Diabetic cardiomyopathy (DCM) is an independent complication of diabetes characterized by myocardial dysfunction in the absence of other heart diseases. Diabetic patients have a worse prognosis and are more susceptible to heart failure than hypertension or ischemic heart disease patients.",
+    "keywords": [
+      "diabetes",
+      "cardiomyopathy",
+      "cardiomyopathy dcm",
+      "diabetic",
+      "diabetic cardiomyopathy",
+      "diseases diabetic",
+      "diabetes characterized"
+    ]
+  },
+  {
+    "chunk_id": 192,
+    "text": "Previous studies have demonstrated that hyperglycemia, hyperlipidemia, inflammation, apoptosis, and oxidative stress are probably involved in DCM pathophysiology. Hyperglycemia-derived reactive oxygen and nitrogen species (ROS and RNS) play a central role in DCM. In addition, chronic low-grade inflammation is a feature of DCM in human diabetics.",
+    "keywords": [
+      "hyperglycemia hyperlipidemia",
+      "hyperlipidemia inflammation",
+      "stress",
+      "dcm pathophysiology",
+      "oxidative",
+      "hyperglycemia",
+      "inflammation",
+      "pathophysiology hyperglycemia"
+    ]
+  },
+  {
+    "chunk_id": 193,
+    "text": "As an early response to myocardial injury, inflammatory signaling in cardiomyocytes entails an activation of nuclear factor-κB and increased expression of proinflammatory cytokines such as interleukin-6 (IL-6) and tumor necrosis factor-alpha.",
+    "keywords": [
+      "cardiomyocytes",
+      "signaling cardiomyocytes",
+      "myocardial injury",
+      "cytokine",
+      "cardiomyocytes entails",
+      "inflammatory signaling"
+    ]
+  },
+  {
+    "chunk_id": 194,
+    "text": "Drug Design, Development and Therapy 2016:10 2095–2107 Dovepress al-rasheed et al The Janus kinase/signal transducer and activator of transcription (JAK/STAT) signaling pathway is an intracellular signaling pathway closely related to cardiac hypertrophy. This pathway plays a key role in cell growth, survival, and differentiation and in regulating gene expression.",
+    "keywords": [
+      "cardiac",
+      "transcription jak",
+      "signaling pathway",
+      "drug",
+      "pathway",
+      "kinase signal",
+      "stat signaling",
+      "JAK",
+      "STAT",
+      "janus kinase"
+    ]
+  },
+  {
+    "chunk_id": 195,
+    "text": "Upon phosphorylation by JAK, STAT proteins translocate into the nucleus, bind to the promoter region of target genes, and regulate their transcription. In the heart, STATs regulate the expression of gene encoding proteins involved in angiogenesis, extracellular matrix composition, inflammation, apoptosis, and cellular signaling.",
+    "keywords": [
+      "transcription heart",
+      "phosphorylation jak",
+      "genes regulate",
+      "stat proteins",
+      "jak stat",
+      "inflammation",
+      "JAK",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 196,
+    "text": "IL-6 and its family-related proteins transduce their signals via glycoprotein 130 (gp130) mostly to STAT3 and play a key role in the development of heart failure and cardiac hypertrophy.",
+    "keywords": [
+      "cardiac",
+      "glycoprotein 130",
+      "cardiac hypertrophy",
+      "glycoprotein",
+      "gp130 stat3",
+      "signals glycoprotein",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 197,
+    "text": "It has been indicated that high glucose activates the JAK/STAT signaling of vascular endothelial cells in vitro through phosphorylation of JAK2 and subsequently STAT3, leading to the proliferation of endothelial cells. Thus, modulation of the IL-6-gp 130-JAK/STAT signaling pathway represents an important strategy for the treatment of DCM.",
+    "keywords": [
+      "JAK",
+      "proliferation endothelial",
+      "pathway",
+      "endothelial cells",
+      "high glucose",
+      "glucose",
+      "signaling vascular",
+      "phosphorylation jak2",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 198,
+    "text": "Dipeptidyl peptidase-4 (DPP-4) inhibitors, as sitagliptin, are a class of antidiabetic drugs that inhibit the degradation of insulinotropic incretins, mainly glucagonlike peptide-1 (GLP-1). GLP-1 is released from intestinal L-cells and regulates circulating glucose levels by enhancing insulin secretion.",
+    "keywords": [
+      "antidiabetic drugs",
+      "inhibitors sitagliptin",
+      "drug",
+      "sitagliptin",
+      "antidiabetic",
+      "dipeptidyl peptidase",
+      "inhibitor",
+      "insulin",
+      "DPP-4",
+      "glucose",
+      "dpp inhibitors"
+    ]
+  },
+  {
+    "chunk_id": 199,
+    "text": "Studies showed that GLP-1 confers cardioprotection after congestive heart failure, ischemia, and myocardial infarction. Sitagliptin has been reported to promote cardioprotection in type 2 diabetic hearts via GLP-1 stabilization and by limiting hyperglycemia and hyperlipidemia.",
+    "keywords": [
+      "hyperglycemia hyperlipidemia",
+      "infarction sitagliptin",
+      "sitagliptin",
+      "hyperglycemia",
+      "confers cardioprotection",
+      "diabetic hearts"
+    ]
+  },
+  {
+    "chunk_id": 200,
+    "text": "However, the issues of an involvement of the JAK/STAT pathway modulation in the protective effects of sitagliptin against DCM have not been previously reported. Therefore, we have investigated the cardioprotective role of sitagliptin in streptozotocin (STZ)-induced diabetic rats, focusing on its modulatory effect on the JAK/ STAT pathway.",
+    "keywords": [
+      "role sitagliptin",
+      "sitagliptin",
+      "sitagliptin dcm",
+      "pathway",
+      "effects sitagliptin",
+      "JAK",
+      "sitagliptin streptozotocin",
+      "STAT"
+    ]
+  },
+  {
+    "chunk_id": 201,
+    "text": "Biocatalysts continue to be explored for consideration as green alternatives to alleviate the environmental issues encountered with the use of methods pertaining to traditional organic chemistry.",
+    "keywords": [
+      "biocatalysts continue",
+      "green alternatives",
+      "organic chemistry",
+      "traditional organic",
+      "biocatalysts"
+    ]
+  },
+  {
+    "chunk_id": 202,
+    "text": "Thus, multi-enzyme cascade reactions have garnered attention owing to their elegance, comprehensiveness, and involvement in the synthesis of a considerable variety of pharmaceuticals, agrochemicals, and other industrially important chemicals. Sitagliptin is a well-reported example of a drug containing a β-amino acid moiety as a key component.",
+    "keywords": [
+      "drug",
+      "sitagliptin",
+      "chemicals sitagliptin",
+      "multi enzyme",
+      "enzyme",
+      "enzyme cascade"
+    ]
+  },
+  {
+    "chunk_id": 203,
+    "text": "Sitagliptin, an inhibitor of dipeptidyl peptidase-4, is used as an oral antidiabetic drug to Frontiers in Bioengineering and Biotechnology | October 2021 Article 757062 Multi-Enzymatic Synthesis of Sitagliptin Intermediate Khobragade et al. Merck has described the industrial manufacturing method of sitagliptin phosphate.",
+    "keywords": [
+      "method sitagliptin",
+      "drug",
+      "sitagliptin inhibitor",
+      "sitagliptin phosphate",
+      "sitagliptin intermediate",
+      "sitagliptin",
+      "antidiabetic",
+      "inhibitor",
+      "synthesis sitagliptin",
+      "phosphate"
+    ]
+  },
+  {
+    "chunk_id": 204,
+    "text": "In comparison, the second-generation process comprised a three-step one-pot synthesis of dehydro-sitagliptin. The synthesis was initiated with trifluoro phenylacetic acid, followed by serial and controlled addition of other reactants and reagents, resulting in the formation of sitagliptin phosphate.",
+    "keywords": [
+      "sitagliptin synthesis",
+      "sitagliptin",
+      "sitagliptin phosphate",
+      "formation sitagliptin",
+      "dehydro sitagliptin",
+      "phosphate"
+    ]
+  },
+  {
+    "chunk_id": 205,
+    "text": "In the last step, the product was crystallized and separated via simple filtration and resulted in the obtainment of 82% overall yield. The abovementioned chemical process involves the use of hazardous chemicals and other toxic substances. Biocatalysts are environmentally friendly and can be used as an alternative for the chemical process.",
+    "keywords": [
+      "product crystallized",
+      "biocatalysts environmentally",
+      "substances biocatalysts",
+      "chemical process",
+      "biocatalysts"
+    ]
+  },
+  {
+    "chunk_id": 206,
+    "text": "TA is reportedly a useful and versatile biocatalyst for the selective and sustainable synthesis of amines, including ketones and aldehydes. For the enzymatic synthesis of sitagliptin, the R-selective TA derived from Arthrobacter sp. was recently engineered using computational modeling and iterative directed evolution tools.",
+    "keywords": [
+      "synthesis amines",
+      "sitagliptin selective",
+      "sitagliptin",
+      "versatile biocatalyst",
+      "synthesis sitagliptin",
+      "biocatalyst selective"
+    ]
+  },
+  {
+    "chunk_id": 207,
+    "text": "The evolved enzyme harbors 27 mutations, highlighting it as a highly active variant, thus enabling its use in the production of the desired sitagliptin at 92% yield. Another enzymatic route considered for the synthesis of a sitagliptin intermediate using TA.",
+    "keywords": [
+      "desired sitagliptin",
+      "evolved enzyme",
+      "sitagliptin intermediate",
+      "sitagliptin",
+      "enzyme",
+      "synthesis sitagliptin"
+    ]
+  },
+  {
+    "chunk_id": 208,
+    "text": "Although these TAs are routinely used for the production of various industrially important compounds, including sitagliptin, they present with various inherent problems for large-scale production, such as inhibition of the biocatalyst by co-products and unfavorable thermodynamic equilibrium.. Therefore, selection of a suitable amine donor is a crucial step for efficient TA reactions.",
+    "keywords": [
+      "suitable amine",
+      "sitagliptin",
+      "inhibition biocatalyst",
+      "biocatalyst products",
+      "biocatalyst",
+      "ta reactions"
+    ]
+  },
+  {
+    "chunk_id": 209,
+    "text": "As such, L-alanine has been considered as the most widely utilized amine donor ever since its deaminated product. Moreover, to shift the reaction equilibrium, a higher amount of Ala was used, and additional enzymes. The advantages of IPA include its achiral nature, which enable its application with either.",
+    "keywords": [
+      "advantages ipa",
+      "alanine considered",
+      "enzymes advantages",
+      "enzyme",
+      "amine donor",
+      "utilized amine"
+    ]
+  },
+  {
+    "chunk_id": 210,
+    "text": "However, IPA also presents with a few limitations, such as the disruption of reactions for final product isolation and purification in the presence of excess amounts of IPA, and the additional assembly required to remove the deaminated product.",
+    "keywords": [
+      "ipa",
+      "ipa additional",
+      "amounts ipa",
+      "ipa presents",
+      "product isolation"
+    ]
+  },
+  {
+    "chunk_id": 211,
+    "text": "Recently, ‘smart’ amine donors such as 3- amino-cyclohexa-1,5-dienecarboxylic acid, o-xylylene diamine, cis-but-2-ene-1,4-diol, cis-but-2-ene-1,4-diamine, and cadaverine have been reported as effective amine donors because they can be used at equimolar quantities. One of the advantages of these amino donors is the autodegrading properties of their co-products.",
+    "keywords": [
+      "donors autodegrading",
+      "amino donors",
+      "donors amino",
+      "effective amine",
+      "amine donors"
+    ]
+  },
+  {
+    "chunk_id": 212,
+    "text": "However, the separation of product and substrate upon reaction completion can be challenging owing to the similar molecular properties of the amino donors. Moreover, they are costly compared to Ala and IPA.",
+    "keywords": [
+      "amino donors",
+      "properties amino",
+      "amino",
+      "substrate reaction",
+      "product substrate"
+    ]
+  },
+  {
+    "chunk_id": 213,
+    "text": "Nevertheless, in a study investigating the amino donor specificity of TA derived from Vibrio fluvialis JS17, the biocatalyst exhibited 3.6 and 30% specificity for IPA and Ala, respectively, compared with (S)-α-MBA (100%), and benzylamine showed 1.15-fold higher activity than (S)-α-MBA ).",
+    "keywords": [
+      "js17 biocatalyst",
+      "biocatalyst exhibited",
+      "investigating amino",
+      "biocatalyst",
+      "amino donor"
+    ]
+  },
+  {
+    "chunk_id": 214,
+    "text": "However, studies conducted for screening and designing efficient amine donors for the synthesis of β-amino acids compared to chiral amines remains limited. Therefore, exploration of a suitable and cheaper amine donor to shift the reaction equilibrium towards product formation has emerged as a key step in the establishment of multi-enzyme cascade reactions.",
+    "keywords": [
+      "amino acids",
+      "synthesis amino",
+      "amine donor",
+      "enzyme",
+      "chiral amines",
+      "efficient amine"
+    ]
+  },
+  {
+    "chunk_id": 215,
+    "text": "Benzylamine is considered the cheapest donor among the Frontiers in Bioengineering and Biotechnology | October 2021 Article 757062 Multi-Enzymatic Synthesis of Sitagliptin Intermediate Khobragade et al.",
+    "keywords": [
+      "sitagliptin intermediate",
+      "sitagliptin",
+      "benzylamine considered",
+      "synthesis sitagliptin",
+      "benzylamine"
+    ]
+  },
+  {
+    "chunk_id": 216,
+    "text": "Furthermore, it can be used to perform screening of both, the present study was conducted to investigate the effectiveness of benzylamine as an amino donor for the synthesis of sitagliptin intermediate by using 1 as the substrate (",
+    "keywords": [
+      "sitagliptin intermediate",
+      "sitagliptin",
+      "effectiveness benzylamine",
+      "synthesis sitagliptin",
+      "benzylamine amino"
+    ]
+  }
+]

@@ -2,19 +2,16 @@
 __pycache__/
 *.pyc
 *.pyo
-.env
+
+# Virtual environment
+chatbot/
 venv/
 env/
 
-# Models & large files
-models/
-*.bin
+# Secrets
+.env
+
+# PyTorch models (too large for GitHub)
 *.pt
 *.safetensors
-
-# Data (optional - remove if you want to push PDFs)
-data/
-
-# FAISS index
-*.faiss
-*.pkl
+*.bin
