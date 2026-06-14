@@ -15,10 +15,10 @@ load_dotenv()
 
 # ── Config ───────────────────────────────────────────────────────
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-FAISS_DIR       = "../models"
+BASE_DIR        = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FAISS_DIR       = os.path.join(BASE_DIR, "models")
 INDEX_PATH      = os.path.join(FAISS_DIR, "faiss_index.bin")
 METADATA_PATH   = os.path.join(FAISS_DIR, "metadata.json")
-
 _model    = None
 _index    = None
 _metadata = None

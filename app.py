@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit as st
+
 import sys
 import os
 
@@ -13,7 +13,7 @@ os.chdir(SRC_DIR)
 
 from rag_pipeline import load_store, ask
 
-from rag_pipeline import load_store, ask
+
 
 # ── Page Config ──────────────────────────────────────────────────
 st.set_page_config(
@@ -126,6 +126,8 @@ st.markdown("""
 def initialize_store():
     load_store()
     return True
+
+initialize_store()
 
 initialize_store()
 
