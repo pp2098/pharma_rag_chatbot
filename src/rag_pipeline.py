@@ -123,7 +123,6 @@ from huggingface_hub import InferenceClient
 from huggingface_hub import InferenceClient
 
 def generate_answer(query, context_chunks):
-    # Try Streamlit secrets first, fallback to .env
     try:
         import streamlit as st
         HF_TOKEN = st.secrets["HF_TOKEN"]
@@ -147,57 +146,38 @@ Question: {query}
 
 Answer:"""
 
-    # Try multiple providers
-    providers = [
-        {
-            "url": "https://router.huggingface.co/together/v1/chat/completions",
-            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
-        },
-        {
-            "url": "https://router.huggingface.co/featherless-ai/v1/chat/completions",
-            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
-        },
-        {
-            "url": "https://router.huggingface.co/nebius/v1/chat/completions",
-            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
-        }
-    ]
-
-    headers = {
-        "Authorization": f"Bearer {HF_TOKEN}",
-        "Content-Type": "application/json"
-    }
-
-    payload = {
-        "model": "meta-llama/Meta-Llama-3-8B-Instruct",
-        "messages": [
-            {
-                "role": "system",
-                "content": "You are a pharmaceutical research assistant. Answer professionally and concisely."
+    try:
+        response = requests.post(
+            "https://router.huggingface.co/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {HF_TOKEN}",
+                "Content-Type": "application/json"
             },
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        "max_tokens": 512,
-        "temperature": 0.3
-    }
+            json={
+                "model": "meta-llama/Meta-Llama-3-8B-Instruct:together",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "You are a pharmaceutical research assistant. Answer professionally and concisely."
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
+                ],
+                "max_tokens": 512,
+                "temperature": 0.3
+            },
+            timeout=30
+        )
 
-    for provider in providers:
-        try:
-            response = requests.post(
-                provider["url"],
-                headers=headers,
-                json=payload,
-                timeout=30
-            )
-            if response.status_code == 200:
-                return response.json()["choices"][0]["message"]["content"].strip()
-        except Exception as e:
-            continue
+        if response.status_code == 200:
+            return response.json()["choices"][0]["message"]["content"].strip()
+        else:
+            return f"⚠️ Error {response.status_code}: {response.text[:200]}"
 
-    return "⚠️ Service temporarily unavailable. Please try again."
+    except Exception as e:
+        return f"⚠️ Error: {str(e)[:200]}"
     
 def ask(query, top_k=5):
     chunks = retrieve(query, top_k=top_k)
