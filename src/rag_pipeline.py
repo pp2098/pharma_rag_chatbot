@@ -80,12 +80,13 @@ def embed_and_store(tagged_chunks):
 
 
 # ── Step 4: Load store from disk (use this on chatbot startup) ───
+
 def load_store():
     global _index, _metadata
 
     if not os.path.exists(INDEX_PATH) or not os.path.exists(METADATA_PATH):
         raise FileNotFoundError(
-            "No saved store found. Run embed_and_store() first."
+            f"No saved store found at {INDEX_PATH}. Run embed_and_store() first."
         )
 
     print("⏳ Loading FAISS index from disk...")
@@ -96,6 +97,8 @@ def load_store():
         metadata_list = json.load(f)
     _metadata = {m["chunk_id"]: m for m in metadata_list}
     print(f"✅ Metadata loaded ({len(_metadata)} chunks)")
+    
+    return _index, _metadata
 
 
 # ── Step 5: Retrieve top-k chunks for a query ────────────────────
@@ -180,6 +183,12 @@ Answer:"""
         return f"⚠️ Error: {str(e)[:200]}"
     
 def ask(query, top_k=5):
+    global _index, _metadata
+    
+    # Load store if not loaded yet
+    if _index is None or _metadata is None:
+        load_store()
+    
     chunks = retrieve(query, top_k=top_k)
     if not chunks:
         return "No relevant context found."
