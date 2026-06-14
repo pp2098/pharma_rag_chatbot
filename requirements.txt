@@ -17,3 +17,4 @@ keybert
 nltk
 numpy
 requests
+torchvision
