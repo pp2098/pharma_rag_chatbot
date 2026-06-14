@@ -136,49 +136,68 @@ def generate_answer(query, context_chunks):
     )
 
     prompt = f"""You are a pharmaceutical research assistant.
-    Answer the question using ONLY the context provided.
-    Structure the answer professionally and clearly.
-    Use 5-8 lines for detailed questions.
-    Use 3-5 lines for simple questions.
-    Never say "based on context" or "according to chunks".
-    If answer not in context, say "I don't have enough information."
+Answer the question using ONLY the context provided.
+Keep answer professional, crisp and under 5 lines.
+If answer not in context, say "I don't have enough information."
 
-    Context:
-    {context}
+Context:
+{context}
 
-    Question: {query}
+Question: {query}
 
-    Answer:"""
+Answer:"""
 
-    # Try together first, fallback to featherless-ai
-    for provider in ["together", "featherless-ai"]:
+    # Try multiple providers
+    providers = [
+        {
+            "url": "https://router.huggingface.co/together/v1/chat/completions",
+            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
+        },
+        {
+            "url": "https://router.huggingface.co/featherless-ai/v1/chat/completions",
+            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
+        },
+        {
+            "url": "https://router.huggingface.co/nebius/v1/chat/completions",
+            "model": "meta-llama/Meta-Llama-3-8B-Instruct"
+        }
+    ]
+
+    headers = {
+        "Authorization": f"Bearer {HF_TOKEN}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a pharmaceutical research assistant. Answer professionally and concisely."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "max_tokens": 512,
+        "temperature": 0.3
+    }
+
+    for provider in providers:
         try:
-            client = InferenceClient(
-                provider=provider,
-                api_key=HF_TOKEN
+            response = requests.post(
+                provider["url"],
+                headers=headers,
+                json=payload,
+                timeout=30
             )
-            response = client.chat_completion(
-                model="meta-llama/Meta-Llama-3-8B-Instruct",
-                messages=[
-                    {
-                        "role": "system",
-                        "content": "You are a pharmaceutical research assistant. Answer professionally and concisely."
-                    },
-                    {
-                        "role": "user",
-                        "content": prompt
-                    }
-                ],
-                max_tokens=1024,
-                temperature=0.3
-            )
-            return response.choices[0].message.content.strip()
-
+            if response.status_code == 200:
+                return response.json()["choices"][0]["message"]["content"].strip()
         except Exception as e:
-            print(f"⚠️ Provider {provider} failed: {str(e)[:80]}")
             continue
 
-    return "❌ All providers failed. Please try again."
+    return "⚠️ Service temporarily unavailable. Please try again."
     
 def ask(query, top_k=5):
     chunks = retrieve(query, top_k=top_k)
