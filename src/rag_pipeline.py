@@ -123,7 +123,12 @@ from huggingface_hub import InferenceClient
 from huggingface_hub import InferenceClient
 
 def generate_answer(query, context_chunks):
-    HF_TOKEN = os.getenv("HF_TOKEN")
+    # Try Streamlit secrets first, fallback to .env
+    try:
+        import streamlit as st
+        HF_TOKEN = st.secrets["HF_TOKEN"]
+    except:
+        HF_TOKEN = os.getenv("HF_TOKEN")
 
     context = "\n\n".join(
         f"[Chunk {c['chunk_id']}]: {c['text']}"

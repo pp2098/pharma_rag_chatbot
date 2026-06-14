@@ -9,5 +9,11 @@ torch
 accelerate
 langchain
 langchain-community
+langchain-text-splitters
 huggingface-hub
 python-dotenv
+pymupdf4llm
+keybert
+nltk
+numpy
+requests
